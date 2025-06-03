@@ -1,0 +1,983 @@
+[07-May-2025 02:01:03 Europe/Berlin] Request received: {"id":"44","nombre":"Jordan Rare Air Mx","precio":"650000","cantidad":"1","foto":"m-j-rare-air-wsh-85-ss-crew.png"}
+[07-May-2025 02:01:03 Europe/Berlin] Datos recibidos - ID: 44, Nombre: Jordan Rare Air Mx, Precio: 650000, Cantidad: 1, Foto: m-j-rare-air-wsh-85-ss-crew.png
+[07-May-2025 02:01:03 Europe/Berlin] Carrito actual antes de actualizar: []
+[07-May-2025 02:01:03 Europe/Berlin] Nuevo producto agregado: {"id":"44","nombre":"Jordan Rare Air Mx","precio":650000,"cantidad":1,"foto":"m-j-rare-air-wsh-85-ss-crew.png"}
+[07-May-2025 02:01:03 Europe/Berlin] Carrito actualizado: [{"id":"44","nombre":"Jordan Rare Air Mx","precio":650000,"cantidad":1,"foto":"m-j-rare-air-wsh-85-ss-crew.png"}]
+[07-May-2025 02:01:14 Europe/Berlin] Request received: {"id":"47","nombre":"Jordan \u00ae","precio":"900000","cantidad":"1","foto":"m-j-city-88-ss-crewz.png"}
+[07-May-2025 02:01:14 Europe/Berlin] Datos recibidos - ID: 47, Nombre: Jordan ®, Precio: 900000, Cantidad: 1, Foto: m-j-city-88-ss-crewz.png
+[07-May-2025 02:01:14 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"44","nombre":"Jordan Rare Air Mx","precio":650000,"cantidad":1,"foto":"m-j-rare-air-wsh-85-ss-crew.png"}]
+[07-May-2025 02:01:14 Europe/Berlin] Comparando ID de producto: '44' con ID recibido: '47'
+[07-May-2025 02:01:14 Europe/Berlin] Nuevo producto agregado: {"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":1,"foto":"m-j-city-88-ss-crewz.png"}
+[07-May-2025 02:01:14 Europe/Berlin] Carrito actualizado: [{"id":"44","nombre":"Jordan Rare Air Mx","precio":650000,"cantidad":1,"foto":"m-j-rare-air-wsh-85-ss-crew.png"},{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":1,"foto":"m-j-city-88-ss-crewz.png"}]
+[07-May-2025 02:01:25 Europe/Berlin] Request received: {"id":"46","nombre":"Jordan","precio":"800000","cantidad":"1","foto":"m-j-stmt-1985-ss-crw-gel-j-dayz.png"}
+[07-May-2025 02:01:25 Europe/Berlin] Datos recibidos - ID: 46, Nombre: Jordan, Precio: 800000, Cantidad: 1, Foto: m-j-stmt-1985-ss-crw-gel-j-dayz.png
+[07-May-2025 02:01:25 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"44","nombre":"Jordan Rare Air Mx","precio":650000,"cantidad":1,"foto":"m-j-rare-air-wsh-85-ss-crew.png"},{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":1,"foto":"m-j-city-88-ss-crewz.png"}]
+[07-May-2025 02:01:25 Europe/Berlin] Comparando ID de producto: '44' con ID recibido: '46'
+[07-May-2025 02:01:25 Europe/Berlin] Comparando ID de producto: '47' con ID recibido: '46'
+[07-May-2025 02:01:25 Europe/Berlin] Nuevo producto agregado: {"id":"46","nombre":"Jordan","precio":800000,"cantidad":1,"foto":"m-j-stmt-1985-ss-crw-gel-j-dayz.png"}
+[07-May-2025 02:01:25 Europe/Berlin] Carrito actualizado: [{"id":"44","nombre":"Jordan Rare Air Mx","precio":650000,"cantidad":1,"foto":"m-j-rare-air-wsh-85-ss-crew.png"},{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":1,"foto":"m-j-city-88-ss-crewz.png"},{"id":"46","nombre":"Jordan","precio":800000,"cantidad":1,"foto":"m-j-stmt-1985-ss-crw-gel-j-dayz.png"}]
+[07-May-2025 02:01:41 Europe/Berlin] Request received: {"id":"48","nombre":"Gorra Jordan","precio":"300000","cantidad":"3","foto":"hbr-structured-strapbackl.png"}
+[07-May-2025 02:01:41 Europe/Berlin] Datos recibidos - ID: 48, Nombre: Gorra Jordan, Precio: 300000, Cantidad: 3, Foto: hbr-structured-strapbackl.png
+[07-May-2025 02:01:41 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"44","nombre":"Jordan Rare Air Mx","precio":650000,"cantidad":1,"foto":"m-j-rare-air-wsh-85-ss-crew.png"},{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":1,"foto":"m-j-city-88-ss-crewz.png"},{"id":"46","nombre":"Jordan","precio":800000,"cantidad":1,"foto":"m-j-stmt-1985-ss-crw-gel-j-dayz.png"}]
+[07-May-2025 02:01:41 Europe/Berlin] Comparando ID de producto: '44' con ID recibido: '48'
+[07-May-2025 02:01:41 Europe/Berlin] Comparando ID de producto: '47' con ID recibido: '48'
+[07-May-2025 02:01:41 Europe/Berlin] Comparando ID de producto: '46' con ID recibido: '48'
+[07-May-2025 02:01:41 Europe/Berlin] Nuevo producto agregado: {"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":3,"foto":"hbr-structured-strapbackl.png"}
+[07-May-2025 02:01:41 Europe/Berlin] Carrito actualizado: [{"id":"44","nombre":"Jordan Rare Air Mx","precio":650000,"cantidad":1,"foto":"m-j-rare-air-wsh-85-ss-crew.png"},{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":1,"foto":"m-j-city-88-ss-crewz.png"},{"id":"46","nombre":"Jordan","precio":800000,"cantidad":1,"foto":"m-j-stmt-1985-ss-crw-gel-j-dayz.png"},{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":3,"foto":"hbr-structured-strapbackl.png"}]
+[07-May-2025 02:01:55 Europe/Berlin] Request received: {"id":"43","nombre":"Nike Calm SE","precio":"600000","cantidad":"3","foto":"w-nike-calm-mule-se-naz.png"}
+[07-May-2025 02:01:55 Europe/Berlin] Datos recibidos - ID: 43, Nombre: Nike Calm SE, Precio: 600000, Cantidad: 3, Foto: w-nike-calm-mule-se-naz.png
+[07-May-2025 02:01:55 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"44","nombre":"Jordan Rare Air Mx","precio":650000,"cantidad":1,"foto":"m-j-rare-air-wsh-85-ss-crew.png"},{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":1,"foto":"m-j-city-88-ss-crewz.png"},{"id":"46","nombre":"Jordan","precio":800000,"cantidad":1,"foto":"m-j-stmt-1985-ss-crw-gel-j-dayz.png"},{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":3,"foto":"hbr-structured-strapbackl.png"}]
+[07-May-2025 02:01:55 Europe/Berlin] Comparando ID de producto: '44' con ID recibido: '43'
+[07-May-2025 02:01:55 Europe/Berlin] Comparando ID de producto: '47' con ID recibido: '43'
+[07-May-2025 02:01:55 Europe/Berlin] Comparando ID de producto: '46' con ID recibido: '43'
+[07-May-2025 02:01:55 Europe/Berlin] Comparando ID de producto: '48' con ID recibido: '43'
+[07-May-2025 02:01:55 Europe/Berlin] Nuevo producto agregado: {"id":"43","nombre":"Nike Calm SE","precio":600000,"cantidad":3,"foto":"w-nike-calm-mule-se-naz.png"}
+[07-May-2025 02:01:55 Europe/Berlin] Carrito actualizado: [{"id":"44","nombre":"Jordan Rare Air Mx","precio":650000,"cantidad":1,"foto":"m-j-rare-air-wsh-85-ss-crew.png"},{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":1,"foto":"m-j-city-88-ss-crewz.png"},{"id":"46","nombre":"Jordan","precio":800000,"cantidad":1,"foto":"m-j-stmt-1985-ss-crw-gel-j-dayz.png"},{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":3,"foto":"hbr-structured-strapbackl.png"},{"id":"43","nombre":"Nike Calm SE","precio":600000,"cantidad":3,"foto":"w-nike-calm-mule-se-naz.png"}]
+[07-May-2025 02:02:14 Europe/Berlin] Request received: {"id":"48","nombre":"Gorra Jordan","precio":"300000","cantidad":"3","foto":"hbr-structured-strapbackl.png"}
+[07-May-2025 02:02:14 Europe/Berlin] Datos recibidos - ID: 48, Nombre: Gorra Jordan, Precio: 300000, Cantidad: 3, Foto: hbr-structured-strapbackl.png
+[07-May-2025 02:02:14 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"44","nombre":"Jordan Rare Air Mx","precio":650000,"cantidad":1,"foto":"m-j-rare-air-wsh-85-ss-crew.png"},{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":1,"foto":"m-j-city-88-ss-crewz.png"},{"id":"46","nombre":"Jordan","precio":800000,"cantidad":1,"foto":"m-j-stmt-1985-ss-crw-gel-j-dayz.png"},{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":3,"foto":"hbr-structured-strapbackl.png"},{"id":"43","nombre":"Nike Calm SE","precio":600000,"cantidad":3,"foto":"w-nike-calm-mule-se-naz.png"}]
+[07-May-2025 02:02:14 Europe/Berlin] Comparando ID de producto: '44' con ID recibido: '48'
+[07-May-2025 02:02:14 Europe/Berlin] Comparando ID de producto: '47' con ID recibido: '48'
+[07-May-2025 02:02:14 Europe/Berlin] Comparando ID de producto: '46' con ID recibido: '48'
+[07-May-2025 02:02:14 Europe/Berlin] Comparando ID de producto: '48' con ID recibido: '48'
+[07-May-2025 02:02:14 Europe/Berlin] Producto existente actualizado - ID: 48, Cantidad anterior: 3, Nueva cantidad: 6
+[07-May-2025 02:02:14 Europe/Berlin] Carrito actualizado: [{"id":"44","nombre":"Jordan Rare Air Mx","precio":650000,"cantidad":1,"foto":"m-j-rare-air-wsh-85-ss-crew.png"},{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":1,"foto":"m-j-city-88-ss-crewz.png"},{"id":"46","nombre":"Jordan","precio":800000,"cantidad":1,"foto":"m-j-stmt-1985-ss-crw-gel-j-dayz.png"},{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":6,"foto":"hbr-structured-strapbackl.png"},{"id":"43","nombre":"Nike Calm SE","precio":600000,"cantidad":3,"foto":"w-nike-calm-mule-se-naz.png"}]
+[07-May-2025 02:43:59 Europe/Berlin] Request received: {"id":"48","nombre":"Gorra Jordan","precio":"300000","cantidad":"1","foto":"hbr-structured-strapbackl.png"}
+[07-May-2025 02:43:59 Europe/Berlin] Datos recibidos - ID: 48, Nombre: Gorra Jordan, Precio: 300000, Cantidad: 1, Foto: hbr-structured-strapbackl.png
+[07-May-2025 02:43:59 Europe/Berlin] Carrito actual antes de actualizar: []
+[07-May-2025 02:43:59 Europe/Berlin] Nuevo producto agregado: {"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"}
+[07-May-2025 02:43:59 Europe/Berlin] Carrito actualizado: [{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"}]
+[07-May-2025 02:44:07 Europe/Berlin] Request received: {"id":"47","nombre":"Jordan \u00ae","precio":"900000","cantidad":"2","foto":"m-j-city-88-ss-crewz.png"}
+[07-May-2025 02:44:07 Europe/Berlin] Datos recibidos - ID: 47, Nombre: Jordan ®, Precio: 900000, Cantidad: 2, Foto: m-j-city-88-ss-crewz.png
+[07-May-2025 02:44:07 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"}]
+[07-May-2025 02:44:07 Europe/Berlin] Comparando ID de producto: '48' con ID recibido: '47'
+[07-May-2025 02:44:07 Europe/Berlin] Nuevo producto agregado: {"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":2,"foto":"m-j-city-88-ss-crewz.png"}
+[07-May-2025 02:44:07 Europe/Berlin] Carrito actualizado: [{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"},{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":2,"foto":"m-j-city-88-ss-crewz.png"}]
+[07-May-2025 02:46:16 Europe/Berlin] Request received: {"id":"43","nombre":"Nike Calm SE","precio":"600000","cantidad":"1","foto":"w-nike-calm-mule-se-naz.png"}
+[07-May-2025 02:46:16 Europe/Berlin] Datos recibidos - ID: 43, Nombre: Nike Calm SE, Precio: 600000, Cantidad: 1, Foto: w-nike-calm-mule-se-naz.png
+[07-May-2025 02:46:16 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"},{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":2,"foto":"m-j-city-88-ss-crewz.png"}]
+[07-May-2025 02:46:16 Europe/Berlin] Comparando ID de producto: '48' con ID recibido: '43'
+[07-May-2025 02:46:16 Europe/Berlin] Comparando ID de producto: '47' con ID recibido: '43'
+[07-May-2025 02:46:16 Europe/Berlin] Nuevo producto agregado: {"id":"43","nombre":"Nike Calm SE","precio":600000,"cantidad":1,"foto":"w-nike-calm-mule-se-naz.png"}
+[07-May-2025 02:46:16 Europe/Berlin] Carrito actualizado: [{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"},{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":2,"foto":"m-j-city-88-ss-crewz.png"},{"id":"43","nombre":"Nike Calm SE","precio":600000,"cantidad":1,"foto":"w-nike-calm-mule-se-naz.png"}]
+[07-May-2025 02:46:21 Europe/Berlin] Request received: {"id":"46","nombre":"Jordan","precio":"800000","cantidad":"1","foto":"m-j-stmt-1985-ss-crw-gel-j-dayz.png"}
+[07-May-2025 02:46:21 Europe/Berlin] Datos recibidos - ID: 46, Nombre: Jordan, Precio: 800000, Cantidad: 1, Foto: m-j-stmt-1985-ss-crw-gel-j-dayz.png
+[07-May-2025 02:46:21 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"},{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":2,"foto":"m-j-city-88-ss-crewz.png"},{"id":"43","nombre":"Nike Calm SE","precio":600000,"cantidad":1,"foto":"w-nike-calm-mule-se-naz.png"}]
+[07-May-2025 02:46:21 Europe/Berlin] Comparando ID de producto: '48' con ID recibido: '46'
+[07-May-2025 02:46:21 Europe/Berlin] Comparando ID de producto: '47' con ID recibido: '46'
+[07-May-2025 02:46:21 Europe/Berlin] Comparando ID de producto: '43' con ID recibido: '46'
+[07-May-2025 02:46:21 Europe/Berlin] Nuevo producto agregado: {"id":"46","nombre":"Jordan","precio":800000,"cantidad":1,"foto":"m-j-stmt-1985-ss-crw-gel-j-dayz.png"}
+[07-May-2025 02:46:21 Europe/Berlin] Carrito actualizado: [{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"},{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":2,"foto":"m-j-city-88-ss-crewz.png"},{"id":"43","nombre":"Nike Calm SE","precio":600000,"cantidad":1,"foto":"w-nike-calm-mule-se-naz.png"},{"id":"46","nombre":"Jordan","precio":800000,"cantidad":1,"foto":"m-j-stmt-1985-ss-crw-gel-j-dayz.png"}]
+[07-May-2025 02:46:30 Europe/Berlin] Request received: {"id":"48","nombre":"Gorra Jordan","precio":"300000","cantidad":"1","foto":"hbr-structured-strapbackl.png"}
+[07-May-2025 02:46:30 Europe/Berlin] Datos recibidos - ID: 48, Nombre: Gorra Jordan, Precio: 300000, Cantidad: 1, Foto: hbr-structured-strapbackl.png
+[07-May-2025 02:46:30 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"},{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":2,"foto":"m-j-city-88-ss-crewz.png"},{"id":"43","nombre":"Nike Calm SE","precio":600000,"cantidad":1,"foto":"w-nike-calm-mule-se-naz.png"},{"id":"46","nombre":"Jordan","precio":800000,"cantidad":1,"foto":"m-j-stmt-1985-ss-crw-gel-j-dayz.png"}]
+[07-May-2025 02:46:30 Europe/Berlin] Comparando ID de producto: '48' con ID recibido: '48'
+[07-May-2025 02:46:30 Europe/Berlin] Producto existente actualizado - ID: 48, Cantidad anterior: 1, Nueva cantidad: 2
+[07-May-2025 02:46:30 Europe/Berlin] Carrito actualizado: [{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":2,"foto":"hbr-structured-strapbackl.png"},{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":2,"foto":"m-j-city-88-ss-crewz.png"},{"id":"43","nombre":"Nike Calm SE","precio":600000,"cantidad":1,"foto":"w-nike-calm-mule-se-naz.png"},{"id":"46","nombre":"Jordan","precio":800000,"cantidad":1,"foto":"m-j-stmt-1985-ss-crw-gel-j-dayz.png"}]
+[07-May-2025 02:46:50 Europe/Berlin] Request received: {"id":"48","nombre":"Gorra Jordan","precio":"300000","cantidad":"1","foto":"hbr-structured-strapbackl.png"}
+[07-May-2025 02:46:50 Europe/Berlin] Datos recibidos - ID: 48, Nombre: Gorra Jordan, Precio: 300000, Cantidad: 1, Foto: hbr-structured-strapbackl.png
+[07-May-2025 02:46:50 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":2,"foto":"hbr-structured-strapbackl.png"},{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":2,"foto":"m-j-city-88-ss-crewz.png"},{"id":"43","nombre":"Nike Calm SE","precio":600000,"cantidad":1,"foto":"w-nike-calm-mule-se-naz.png"},{"id":"46","nombre":"Jordan","precio":800000,"cantidad":1,"foto":"m-j-stmt-1985-ss-crw-gel-j-dayz.png"}]
+[07-May-2025 02:46:50 Europe/Berlin] Comparando ID de producto: '48' con ID recibido: '48'
+[07-May-2025 02:46:50 Europe/Berlin] Producto existente actualizado - ID: 48, Cantidad anterior: 2, Nueva cantidad: 3
+[07-May-2025 02:46:50 Europe/Berlin] Carrito actualizado: [{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":3,"foto":"hbr-structured-strapbackl.png"},{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":2,"foto":"m-j-city-88-ss-crewz.png"},{"id":"43","nombre":"Nike Calm SE","precio":600000,"cantidad":1,"foto":"w-nike-calm-mule-se-naz.png"},{"id":"46","nombre":"Jordan","precio":800000,"cantidad":1,"foto":"m-j-stmt-1985-ss-crw-gel-j-dayz.png"}]
+[07-May-2025 02:52:48 Europe/Berlin] Request received: {"id":"6","nombre":"Nike Sportswear Tech Fleece","precio":"300000","cantidad":"1","foto":"M+NK+TCH+FLC+SHORTz.png"}
+[07-May-2025 02:52:48 Europe/Berlin] Datos recibidos - ID: 6, Nombre: Nike Sportswear Tech Fleece, Precio: 300000, Cantidad: 1, Foto: M+NK+TCH+FLC+SHORTz.png
+[07-May-2025 02:52:48 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":3,"foto":"hbr-structured-strapbackl.png"},{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":2,"foto":"m-j-city-88-ss-crewz.png"},{"id":"43","nombre":"Nike Calm SE","precio":600000,"cantidad":1,"foto":"w-nike-calm-mule-se-naz.png"},{"id":"46","nombre":"Jordan","precio":800000,"cantidad":1,"foto":"m-j-stmt-1985-ss-crw-gel-j-dayz.png"}]
+[07-May-2025 02:52:48 Europe/Berlin] Comparando ID de producto: '48' con ID recibido: '6'
+[07-May-2025 02:52:48 Europe/Berlin] Comparando ID de producto: '47' con ID recibido: '6'
+[07-May-2025 02:52:48 Europe/Berlin] Comparando ID de producto: '43' con ID recibido: '6'
+[07-May-2025 02:52:48 Europe/Berlin] Comparando ID de producto: '46' con ID recibido: '6'
+[07-May-2025 02:52:48 Europe/Berlin] Nuevo producto agregado: {"id":"6","nombre":"Nike Sportswear Tech Fleece","precio":300000,"cantidad":1,"foto":"M+NK+TCH+FLC+SHORTz.png"}
+[07-May-2025 02:52:48 Europe/Berlin] Carrito actualizado: [{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":3,"foto":"hbr-structured-strapbackl.png"},{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":2,"foto":"m-j-city-88-ss-crewz.png"},{"id":"43","nombre":"Nike Calm SE","precio":600000,"cantidad":1,"foto":"w-nike-calm-mule-se-naz.png"},{"id":"46","nombre":"Jordan","precio":800000,"cantidad":1,"foto":"m-j-stmt-1985-ss-crw-gel-j-dayz.png"},{"id":"6","nombre":"Nike Sportswear Tech Fleece","precio":300000,"cantidad":1,"foto":"M+NK+TCH+FLC+SHORTz.png"}]
+[07-May-2025 03:16:10 Europe/Berlin] Request received: {"id":"47","nombre":"Jordan \u00ae","precio":"900000","cantidad":"1","foto":"m-j-city-88-ss-crewz.png"}
+[07-May-2025 03:16:10 Europe/Berlin] Datos recibidos - ID: 47, Nombre: Jordan ®, Precio: 900000, Cantidad: 1, Foto: m-j-city-88-ss-crewz.png
+[07-May-2025 03:16:10 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":3,"foto":"hbr-structured-strapbackl.png"}]
+[07-May-2025 03:16:10 Europe/Berlin] Comparando ID de producto: '48' con ID recibido: '47'
+[07-May-2025 03:16:10 Europe/Berlin] Nuevo producto agregado: {"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":1,"foto":"m-j-city-88-ss-crewz.png"}
+[07-May-2025 03:16:10 Europe/Berlin] Carrito actualizado: [{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":3,"foto":"hbr-structured-strapbackl.png"},{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":1,"foto":"m-j-city-88-ss-crewz.png"}]
+[07-May-2025 03:31:53 Europe/Berlin] Request received: {"id":"47","nombre":"Jordan \u00ae","precio":"900000","cantidad":"3","foto":"m-j-city-88-ss-crewz.png"}
+[07-May-2025 03:31:53 Europe/Berlin] Datos recibidos - ID: 47, Nombre: Jordan ®, Precio: 900000, Cantidad: 3, Foto: m-j-city-88-ss-crewz.png
+[07-May-2025 03:31:53 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":1,"foto":"m-j-city-88-ss-crewz.png"}]
+[07-May-2025 03:31:53 Europe/Berlin] Comparando ID de producto: '47' con ID recibido: '47'
+[07-May-2025 03:31:53 Europe/Berlin] Producto existente actualizado - ID: 47, Cantidad anterior: 1, Nueva cantidad: 4
+[07-May-2025 03:31:53 Europe/Berlin] Carrito actualizado: [{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":4,"foto":"m-j-city-88-ss-crewz.png"}]
+[07-May-2025 03:31:58 Europe/Berlin] Request received: {"id":"48","nombre":"Gorra Jordan","precio":"300000","cantidad":"3","foto":"hbr-structured-strapbackl.png"}
+[07-May-2025 03:31:58 Europe/Berlin] Datos recibidos - ID: 48, Nombre: Gorra Jordan, Precio: 300000, Cantidad: 3, Foto: hbr-structured-strapbackl.png
+[07-May-2025 03:31:58 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":4,"foto":"m-j-city-88-ss-crewz.png"}]
+[07-May-2025 03:31:58 Europe/Berlin] Comparando ID de producto: '47' con ID recibido: '48'
+[07-May-2025 03:31:58 Europe/Berlin] Nuevo producto agregado: {"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":3,"foto":"hbr-structured-strapbackl.png"}
+[07-May-2025 03:31:58 Europe/Berlin] Carrito actualizado: [{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":4,"foto":"m-j-city-88-ss-crewz.png"},{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":3,"foto":"hbr-structured-strapbackl.png"}]
+[07-May-2025 03:41:27 Europe/Berlin] Request received: {"id":"48","nombre":"Gorra Jordan","precio":"300000","cantidad":"1","foto":"hbr-structured-strapbackl.png"}
+[07-May-2025 03:41:27 Europe/Berlin] Datos recibidos - ID: 48, Nombre: Gorra Jordan, Precio: 300000, Cantidad: 1, Foto: hbr-structured-strapbackl.png
+[07-May-2025 03:41:27 Europe/Berlin] Carrito actual antes de actualizar: []
+[07-May-2025 03:41:27 Europe/Berlin] Nuevo producto agregado: {"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"}
+[07-May-2025 03:41:27 Europe/Berlin] Carrito actualizado: [{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"}]
+[07-May-2025 03:59:55 Europe/Berlin] Request received: {"id":"47","nombre":"Jordan \u00ae","precio":"900000","cantidad":"3","foto":"m-j-city-88-ss-crewz.png"}
+[07-May-2025 03:59:55 Europe/Berlin] Datos recibidos - ID: 47, Nombre: Jordan ®, Precio: 900000, Cantidad: 3, Foto: m-j-city-88-ss-crewz.png
+[07-May-2025 03:59:55 Europe/Berlin] Carrito actual antes de actualizar: []
+[07-May-2025 03:59:55 Europe/Berlin] Nuevo producto agregado: {"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":3,"foto":"m-j-city-88-ss-crewz.png"}
+[07-May-2025 03:59:55 Europe/Berlin] Carrito actualizado: [{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":3,"foto":"m-j-city-88-ss-crewz.png"}]
+[07-May-2025 13:39:28 Europe/Berlin] Request received: {"id":"44","nombre":"Jordan Rare Air Mx","precio":"650000","cantidad":"1","foto":"m-j-rare-air-wsh-85-ss-crew.png"}
+[07-May-2025 13:39:28 Europe/Berlin] Datos recibidos - ID: 44, Nombre: Jordan Rare Air Mx, Precio: 650000, Cantidad: 1, Foto: m-j-rare-air-wsh-85-ss-crew.png
+[07-May-2025 13:39:28 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":3,"foto":"m-j-city-88-ss-crewz.png"}]
+[07-May-2025 13:39:28 Europe/Berlin] Comparando ID de producto: '47' con ID recibido: '44'
+[07-May-2025 13:39:28 Europe/Berlin] Nuevo producto agregado: {"id":"44","nombre":"Jordan Rare Air Mx","precio":650000,"cantidad":1,"foto":"m-j-rare-air-wsh-85-ss-crew.png"}
+[07-May-2025 13:39:28 Europe/Berlin] Carrito actualizado: [{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":3,"foto":"m-j-city-88-ss-crewz.png"},{"id":"44","nombre":"Jordan Rare Air Mx","precio":650000,"cantidad":1,"foto":"m-j-rare-air-wsh-85-ss-crew.png"}]
+[07-May-2025 13:54:11 Europe/Berlin] Request received: {"id":"48","nombre":"Gorra Jordan","precio":"300000","cantidad":"1","foto":"hbr-structured-strapbackl.png"}
+[07-May-2025 13:54:11 Europe/Berlin] Datos recibidos - ID: 48, Nombre: Gorra Jordan, Precio: 300000, Cantidad: 1, Foto: hbr-structured-strapbackl.png
+[07-May-2025 13:54:11 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":3,"foto":"m-j-city-88-ss-crewz.png"},{"id":"44","nombre":"Jordan Rare Air Mx","precio":650000,"cantidad":1,"foto":"m-j-rare-air-wsh-85-ss-crew.png"}]
+[07-May-2025 13:54:11 Europe/Berlin] Comparando ID de producto: '47' con ID recibido: '48'
+[07-May-2025 13:54:11 Europe/Berlin] Comparando ID de producto: '44' con ID recibido: '48'
+[07-May-2025 13:54:11 Europe/Berlin] Nuevo producto agregado: {"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"}
+[07-May-2025 13:54:11 Europe/Berlin] Carrito actualizado: [{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":3,"foto":"m-j-city-88-ss-crewz.png"},{"id":"44","nombre":"Jordan Rare Air Mx","precio":650000,"cantidad":1,"foto":"m-j-rare-air-wsh-85-ss-crew.png"},{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"}]
+[07-May-2025 13:54:40 Europe/Berlin] Request received: {"id":"40","nombre":"Nike Sportswear","precio":"800000","cantidad":"1","foto":"w2b2bnsw2b2bstreet2b2bwvn2b2boh2b2bpantm.png"}
+[07-May-2025 13:54:40 Europe/Berlin] Datos recibidos - ID: 40, Nombre: Nike Sportswear, Precio: 800000, Cantidad: 1, Foto: w2b2bnsw2b2bstreet2b2bwvn2b2boh2b2bpantm.png
+[07-May-2025 13:54:40 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":3,"foto":"m-j-city-88-ss-crewz.png"},{"id":"44","nombre":"Jordan Rare Air Mx","precio":650000,"cantidad":1,"foto":"m-j-rare-air-wsh-85-ss-crew.png"},{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"}]
+[07-May-2025 13:54:40 Europe/Berlin] Comparando ID de producto: '47' con ID recibido: '40'
+[07-May-2025 13:54:40 Europe/Berlin] Comparando ID de producto: '44' con ID recibido: '40'
+[07-May-2025 13:54:40 Europe/Berlin] Comparando ID de producto: '48' con ID recibido: '40'
+[07-May-2025 13:54:40 Europe/Berlin] Nuevo producto agregado: {"id":"40","nombre":"Nike Sportswear","precio":800000,"cantidad":1,"foto":"w2b2bnsw2b2bstreet2b2bwvn2b2boh2b2bpantm.png"}
+[07-May-2025 13:54:40 Europe/Berlin] Carrito actualizado: [{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":3,"foto":"m-j-city-88-ss-crewz.png"},{"id":"44","nombre":"Jordan Rare Air Mx","precio":650000,"cantidad":1,"foto":"m-j-rare-air-wsh-85-ss-crew.png"},{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"},{"id":"40","nombre":"Nike Sportswear","precio":800000,"cantidad":1,"foto":"w2b2bnsw2b2bstreet2b2bwvn2b2boh2b2bpantm.png"}]
+[07-May-2025 16:07:47 Europe/Berlin] Request received: {"id":"47","nombre":"Jordan \u00ae","precio":"900000","cantidad":"1","foto":"m-j-city-88-ss-crewz.png"}
+[07-May-2025 16:07:47 Europe/Berlin] Inicializando carrito vacío
+[07-May-2025 16:07:47 Europe/Berlin] Datos recibidos - ID: 47, Nombre: Jordan ®, Precio: 900000, Cantidad: 1, Foto: m-j-city-88-ss-crewz.png
+[07-May-2025 16:07:47 Europe/Berlin] Carrito actual antes de actualizar: []
+[07-May-2025 16:07:47 Europe/Berlin] Nuevo producto agregado: {"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":1,"foto":"m-j-city-88-ss-crewz.png"}
+[07-May-2025 16:07:47 Europe/Berlin] Carrito actualizado: [{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":1,"foto":"m-j-city-88-ss-crewz.png"}]
+[07-May-2025 16:09:39 Europe/Berlin] Request received: {"id":"48","nombre":"Gorra Jordan","precio":"300000","cantidad":"1","foto":"hbr-structured-strapbackl.png"}
+[07-May-2025 16:09:39 Europe/Berlin] Datos recibidos - ID: 48, Nombre: Gorra Jordan, Precio: 300000, Cantidad: 1, Foto: hbr-structured-strapbackl.png
+[07-May-2025 16:09:39 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":1,"foto":"m-j-city-88-ss-crewz.png"}]
+[07-May-2025 16:09:39 Europe/Berlin] Comparando ID de producto: '47' con ID recibido: '48'
+[07-May-2025 16:09:39 Europe/Berlin] Nuevo producto agregado: {"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"}
+[07-May-2025 16:09:39 Europe/Berlin] Carrito actualizado: [{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":1,"foto":"m-j-city-88-ss-crewz.png"},{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"}]
+[07-May-2025 16:22:25 Europe/Berlin] Request received: {"id":"47","nombre":"Jordan \u00ae","precio":"900000","cantidad":"1","foto":"m-j-city-88-ss-crewz.png"}
+[07-May-2025 16:22:25 Europe/Berlin] Datos recibidos - ID: 47, Nombre: Jordan ®, Precio: 900000, Cantidad: 1, Foto: m-j-city-88-ss-crewz.png
+[07-May-2025 16:22:25 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":1,"foto":"m-j-city-88-ss-crewz.png"},{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"}]
+[07-May-2025 16:22:25 Europe/Berlin] Comparando ID de producto: '47' con ID recibido: '47'
+[07-May-2025 16:22:25 Europe/Berlin] Producto existente actualizado - ID: 47, Cantidad anterior: 1, Nueva cantidad: 2
+[07-May-2025 16:22:25 Europe/Berlin] Carrito actualizado: [{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":2,"foto":"m-j-city-88-ss-crewz.png"},{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"}]
+[07-May-2025 16:26:00 Europe/Berlin] Request received: {"id":"46","nombre":"Jordan","precio":"800000","cantidad":"1","foto":"m-j-stmt-1985-ss-crw-gel-j-dayz.png"}
+[07-May-2025 16:26:00 Europe/Berlin] Datos recibidos - ID: 46, Nombre: Jordan, Precio: 800000, Cantidad: 1, Foto: m-j-stmt-1985-ss-crw-gel-j-dayz.png
+[07-May-2025 16:26:00 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":2,"foto":"m-j-city-88-ss-crewz.png"},{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"}]
+[07-May-2025 16:26:00 Europe/Berlin] Comparando ID de producto: '47' con ID recibido: '46'
+[07-May-2025 16:26:00 Europe/Berlin] Comparando ID de producto: '48' con ID recibido: '46'
+[07-May-2025 16:26:00 Europe/Berlin] Nuevo producto agregado: {"id":"46","nombre":"Jordan","precio":800000,"cantidad":1,"foto":"m-j-stmt-1985-ss-crw-gel-j-dayz.png"}
+[07-May-2025 16:26:00 Europe/Berlin] Carrito actualizado: [{"id":"47","nombre":"Jordan \u00ae","precio":900000,"cantidad":2,"foto":"m-j-city-88-ss-crewz.png"},{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"},{"id":"46","nombre":"Jordan","precio":800000,"cantidad":1,"foto":"m-j-stmt-1985-ss-crw-gel-j-dayz.png"}]
+[07-May-2025 18:39:36 Europe/Berlin] Request received: {"id":"48","nombre":"Gorra Jordan","precio":"300000","cantidad":"1","foto":"hbr-structured-strapbackl.png"}
+[07-May-2025 18:39:36 Europe/Berlin] Inicializando carrito vacío
+[07-May-2025 18:39:36 Europe/Berlin] Datos recibidos - ID: 48, Nombre: Gorra Jordan, Precio: 300000, Cantidad: 1, Foto: hbr-structured-strapbackl.png
+[07-May-2025 18:39:36 Europe/Berlin] Carrito actual antes de actualizar: []
+[07-May-2025 18:39:36 Europe/Berlin] Nuevo producto agregado: {"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"}
+[07-May-2025 18:39:36 Europe/Berlin] Carrito actualizado: [{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"}]
+[08-May-2025 09:22:09 Europe/Berlin] Request received: {"id":"48","nombre":"Gorra Jordan","precio":"300000","cantidad":"1","foto":"hbr-structured-strapbackl.png"}
+[08-May-2025 09:22:09 Europe/Berlin] Datos recibidos - ID: 48, Nombre: Gorra Jordan, Precio: 300000, Cantidad: 1, Foto: hbr-structured-strapbackl.png
+[08-May-2025 09:22:09 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":1,"foto":"hbr-structured-strapbackl.png"}]
+[08-May-2025 09:22:09 Europe/Berlin] Comparando ID de producto: '48' con ID recibido: '48'
+[08-May-2025 09:22:09 Europe/Berlin] Producto existente actualizado - ID: 48, Cantidad anterior: 1, Nueva cantidad: 2
+[08-May-2025 09:22:09 Europe/Berlin] Carrito actualizado: [{"id":"48","nombre":"Gorra Jordan","precio":300000,"cantidad":2,"foto":"hbr-structured-strapbackl.png"}]
+[08-May-2025 10:19:36 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png"}
+[08-May-2025 10:19:36 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: , IDCompuesto: 
+[08-May-2025 10:19:36 Europe/Berlin] Datos de carrito incompletos recibidos: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png"}
+[08-May-2025 10:19:48 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png"}
+[08-May-2025 10:19:48 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: , IDCompuesto: 
+[08-May-2025 10:19:48 Europe/Berlin] Datos de carrito incompletos recibidos: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png"}
+[08-May-2025 10:20:02 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png"}
+[08-May-2025 10:20:02 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: , IDCompuesto: 
+[08-May-2025 10:20:02 Europe/Berlin] Datos de carrito incompletos recibidos: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png"}
+[08-May-2025 10:20:37 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png"}
+[08-May-2025 10:20:37 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: , IDCompuesto: 
+[08-May-2025 10:20:37 Europe/Berlin] Datos de carrito incompletos recibidos: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png"}
+[08-May-2025 10:20:53 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png"}
+[08-May-2025 10:20:53 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: , IDCompuesto: 
+[08-May-2025 10:20:53 Europe/Berlin] Datos de carrito incompletos recibidos: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png"}
+[08-May-2025 10:21:40 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","idCompuesto":"55-1"}
+[08-May-2025 10:21:40 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, IDCompuesto: 55-1
+[08-May-2025 10:21:40 Europe/Berlin] Error al verificar stock: SQLSTATE[HY000] [1045] Access denied for user 'usuario'@'localhost' (using password: YES)
+[08-May-2025 10:22:25 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","idCompuesto":"55-1"}
+[08-May-2025 10:22:25 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, IDCompuesto: 55-1
+[08-May-2025 10:22:25 Europe/Berlin] Error al verificar stock: SQLSTATE[HY000] [1045] Access denied for user 'usuario'@'localhost' (using password: YES)
+[08-May-2025 10:22:31 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"2","idCompuesto":"55-2"}
+[08-May-2025 10:22:31 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 2, IDCompuesto: 55-2
+[08-May-2025 10:22:31 Europe/Berlin] Error al verificar stock: SQLSTATE[HY000] [1045] Access denied for user 'usuario'@'localhost' (using password: YES)
+[08-May-2025 10:22:39 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"2","foto":"m-nk-club-cargo-shortz.png","talla":"2","idCompuesto":"55-2"}
+[08-May-2025 10:22:39 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 2, Foto: m-nk-club-cargo-shortz.png, Talla: 2, IDCompuesto: 55-2
+[08-May-2025 10:22:39 Europe/Berlin] Error al verificar stock: SQLSTATE[HY000] [1045] Access denied for user 'usuario'@'localhost' (using password: YES)
+[08-May-2025 10:25:57 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","idCompuesto":"55-1"}
+[08-May-2025 10:25:57 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, IDCompuesto: 55-1
+[08-May-2025 10:25:57 Europe/Berlin] Error al verificar stock: SQLSTATE[HY000] [1045] Access denied for user 'usuario'@'localhost' (using password: YES)
+[08-May-2025 10:26:40 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","idCompuesto":"55-1"}
+[08-May-2025 10:26:40 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, IDCompuesto: 55-1
+[08-May-2025 10:26:40 Europe/Berlin] Error al verificar stock: SQLSTATE[HY000] [1045] Access denied for user 'usuario'@'localhost' (using password: YES)
+[08-May-2025 10:35:31 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[08-May-2025 10:35:31 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, IDCompuesto: 55-1
+[08-May-2025 10:35:31 Europe/Berlin] Error al verificar stock: SQLSTATE[HY000] [1045] Access denied for user 'usuario'@'localhost' (using password: YES)
+[08-May-2025 10:40:06 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[08-May-2025 10:40:06 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[08-May-2025 10:40:06 Europe/Berlin] PHP Warning:  require_once(../Conexion.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\404\Backend\Carrito\Agregar.php on line 53
+[08-May-2025 10:40:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../Conexion.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\404\Backend\Carrito\Agregar.php:53
+Stack trace:
+#0 D:\xampp\htdocs\404\Backend\Carrito\Agregar.php(103): verificarStock('55', '1', 1)
+#1 {main}
+  thrown in D:\xampp\htdocs\404\Backend\Carrito\Agregar.php on line 53
+[08-May-2025 10:40:24 Europe/Berlin] Request received: []
+[08-May-2025 10:40:24 Europe/Berlin] Datos recibidos - ID: , Nombre: , Precio: , Cantidad: 1, Foto: , Talla: , TallaTexto: , IDCompuesto: 
+[08-May-2025 10:40:24 Europe/Berlin] Error: Datos incompletos recibidos para agregar al carrito.
+[08-May-2025 10:40:41 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[08-May-2025 10:40:41 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[08-May-2025 10:40:41 Europe/Berlin] PHP Warning:  require_once(../Conexion.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\404\Backend\Carrito\Agregar.php on line 53
+[08-May-2025 10:40:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../Conexion.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\404\Backend\Carrito\Agregar.php:53
+Stack trace:
+#0 D:\xampp\htdocs\404\Backend\Carrito\Agregar.php(103): verificarStock('55', '1', 1)
+#1 {main}
+  thrown in D:\xampp\htdocs\404\Backend\Carrito\Agregar.php on line 53
+[08-May-2025 10:40:47 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[08-May-2025 10:40:47 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[08-May-2025 10:40:47 Europe/Berlin] PHP Warning:  require_once(../Conexion.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\404\Backend\Carrito\Agregar.php on line 53
+[08-May-2025 10:40:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../Conexion.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\404\Backend\Carrito\Agregar.php:53
+Stack trace:
+#0 D:\xampp\htdocs\404\Backend\Carrito\Agregar.php(103): verificarStock('55', '1', 1)
+#1 {main}
+  thrown in D:\xampp\htdocs\404\Backend\Carrito\Agregar.php on line 53
+[08-May-2025 10:42:38 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[08-May-2025 10:42:38 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[08-May-2025 10:42:38 Europe/Berlin] Error: No hay conexion a la base de datos
+[08-May-2025 10:42:38 Europe/Berlin] Error: No hay stock suficiente para producto 55 talla 1 cantidad 1
+[08-May-2025 10:44:29 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[08-May-2025 10:44:29 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[08-May-2025 10:44:29 Europe/Berlin] Error: No hay conexion a la base de datos
+[08-May-2025 10:44:29 Europe/Berlin] Error: No hay stock suficiente para producto 55 talla 1 cantidad 1
+[08-May-2025 10:51:08 Europe/Berlin] Request recibido: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[08-May-2025 10:51:08 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[08-May-2025 10:51:08 Europe/Berlin] Cantidad ya en carrito para 55-1: 0
+[08-May-2025 10:51:08 Europe/Berlin] PHP Warning:  require_once(../Conexion.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\404\Backend\Carrito\Agregar.php on line 59
+[08-May-2025 10:51:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../Conexion.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\404\Backend\Carrito\Agregar.php:59
+Stack trace:
+#0 D:\xampp\htdocs\404\Backend\Carrito\Agregar.php(109): verificarStock('55', '1', 1)
+#1 {main}
+  thrown in D:\xampp\htdocs\404\Backend\Carrito\Agregar.php on line 59
+[08-May-2025 10:51:28 Europe/Berlin] Request recibido: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[08-May-2025 10:51:28 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[08-May-2025 10:51:28 Europe/Berlin] Cantidad ya en carrito para 55-1: 0
+[08-May-2025 10:51:28 Europe/Berlin] Error de conexión a la base de datos
+[08-May-2025 10:51:28 Europe/Berlin] Error: No hay suficiente stock para 55-1. En carrito: 0, solicitado: 1
+[08-May-2025 17:00:59 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[08-May-2025 17:00:59 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[08-May-2025 17:00:59 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: mysqli_prepare(): Argument #1 ($mysql) must be of type mysqli, null given in D:\xampp\htdocs\404\Backend\Carrito\Agregar.php:60
+Stack trace:
+#0 D:\xampp\htdocs\404\Backend\Carrito\Agregar.php(60): mysqli_prepare(NULL, 'SELECT stock FR...')
+#1 D:\xampp\htdocs\404\Backend\Carrito\Agregar.php(100): verificarStock('55', '1', 1)
+#2 {main}
+  thrown in D:\xampp\htdocs\404\Backend\Carrito\Agregar.php on line 60
+[08-May-2025 17:03:11 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[08-May-2025 17:03:11 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[08-May-2025 17:03:11 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: mysqli_prepare(): Argument #1 ($mysql) must be of type mysqli, null given in D:\xampp\htdocs\404\Backend\Carrito\Agregar.php:60
+Stack trace:
+#0 D:\xampp\htdocs\404\Backend\Carrito\Agregar.php(60): mysqli_prepare(NULL, 'SELECT stock FR...')
+#1 D:\xampp\htdocs\404\Backend\Carrito\Agregar.php(100): verificarStock('55', '1', 1)
+#2 {main}
+  thrown in D:\xampp\htdocs\404\Backend\Carrito\Agregar.php on line 60
+[08-May-2025 17:06:59 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[08-May-2025 17:06:59 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[08-May-2025 17:06:59 Europe/Berlin] Error al verificar stock: Table 'brosstore.productos_tallas' doesn't exist
+[08-May-2025 17:08:25 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[08-May-2025 17:08:25 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[08-May-2025 17:08:25 Europe/Berlin] Error al verificar stock: Unknown column 'STOCK' in 'field list'
+[08-May-2025 17:09:38 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[08-May-2025 17:09:38 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[08-May-2025 17:09:38 Europe/Berlin] Error al verificar stock: Table 'brosstore.productos_tallas' doesn't exist
+[08-May-2025 17:10:09 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[08-May-2025 17:10:09 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[08-May-2025 17:10:09 Europe/Berlin] Stock verificado para producto 55, talla 1: 10
+[08-May-2025 17:10:09 Europe/Berlin] Carrito actual antes de actualizar: []
+[08-May-2025 17:10:09 Europe/Berlin] Nuevo producto agregado: {"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}
+[08-May-2025 17:10:09 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[08-May-2025 17:20:47 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"5","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[08-May-2025 17:20:47 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 5, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[08-May-2025 17:20:47 Europe/Berlin] Stock verificado para producto 55, talla 2: 15
+[08-May-2025 17:20:47 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[08-May-2025 17:20:47 Europe/Berlin] Comparando ID compuesto: '55-1' con ID compuesto recibido: '55-2'
+[08-May-2025 17:20:47 Europe/Berlin] Nuevo producto agregado: {"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":5,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}
+[08-May-2025 17:20:47 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":5,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[08-May-2025 20:52:54 Europe/Berlin] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[08-May-2025 20:52:54 Europe/Berlin] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[08-May-2025 20:52:54 Europe/Berlin] Stock verificado para producto 4, talla 2: 30
+[08-May-2025 20:52:54 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":8,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":5,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[08-May-2025 20:52:54 Europe/Berlin] Comparando ID compuesto: '55-1' con ID compuesto recibido: '4-2'
+[08-May-2025 20:52:54 Europe/Berlin] Comparando ID compuesto: '55-2' con ID compuesto recibido: '4-2'
+[08-May-2025 20:52:54 Europe/Berlin] Nuevo producto agregado: {"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}
+[08-May-2025 20:52:54 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":8,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":5,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[08-May-2025 20:52:57 Europe/Berlin] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[08-May-2025 20:52:57 Europe/Berlin] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[08-May-2025 20:52:57 Europe/Berlin] Stock verificado para producto 4, talla 2: 30
+[08-May-2025 20:52:57 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":8,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":5,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[08-May-2025 20:52:57 Europe/Berlin] Comparando ID compuesto: '55-1' con ID compuesto recibido: '4-2'
+[08-May-2025 20:52:57 Europe/Berlin] Comparando ID compuesto: '55-2' con ID compuesto recibido: '4-2'
+[08-May-2025 20:52:57 Europe/Berlin] Comparando ID compuesto: '4-2' con ID compuesto recibido: '4-2'
+[08-May-2025 20:52:57 Europe/Berlin] Producto existente actualizado - ID: 4-2, Cantidad anterior: 1, Nueva cantidad: 2
+[08-May-2025 20:52:57 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":8,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":5,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[08-May-2025 20:53:00 Europe/Berlin] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"2","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[08-May-2025 20:53:00 Europe/Berlin] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 2, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[08-May-2025 20:53:00 Europe/Berlin] Stock verificado para producto 4, talla 2: 30
+[08-May-2025 20:53:00 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":8,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":5,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[08-May-2025 20:53:00 Europe/Berlin] Comparando ID compuesto: '55-1' con ID compuesto recibido: '4-2'
+[08-May-2025 20:53:00 Europe/Berlin] Comparando ID compuesto: '55-2' con ID compuesto recibido: '4-2'
+[08-May-2025 20:53:00 Europe/Berlin] Comparando ID compuesto: '4-2' con ID compuesto recibido: '4-2'
+[08-May-2025 20:53:00 Europe/Berlin] Producto existente actualizado - ID: 4-2, Cantidad anterior: 2, Nueva cantidad: 4
+[08-May-2025 20:53:00 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":8,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":5,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":4,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[08-May-2025 23:15:03 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"5","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[08-May-2025 23:15:03 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 5, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[08-May-2025 23:15:03 Europe/Berlin] Stock verificado para producto 55, talla 2: 15
+[08-May-2025 23:15:03 Europe/Berlin] Carrito actual antes de actualizar: []
+[08-May-2025 23:15:03 Europe/Berlin] Nuevo producto agregado: {"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":5,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}
+[08-May-2025 23:15:03 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":5,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[08-May-2025 23:15:27 Europe/Berlin] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[08-May-2025 23:15:27 Europe/Berlin] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[08-May-2025 23:15:27 Europe/Berlin] Stock verificado para producto 4, talla 2: 30
+[08-May-2025 23:15:27 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":5,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[08-May-2025 23:15:27 Europe/Berlin] Comparando ID compuesto: '55-2' con ID compuesto recibido: '4-2'
+[08-May-2025 23:15:27 Europe/Berlin] Nuevo producto agregado: {"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}
+[08-May-2025 23:15:27 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":5,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[08-May-2025 23:15:43 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[08-May-2025 23:15:43 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[08-May-2025 23:15:43 Europe/Berlin] Stock verificado para producto 55, talla 1: 10
+[08-May-2025 23:15:43 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":5,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[08-May-2025 23:15:43 Europe/Berlin] Comparando ID compuesto: '55-2' con ID compuesto recibido: '55-1'
+[08-May-2025 23:15:43 Europe/Berlin] Comparando ID compuesto: '4-2' con ID compuesto recibido: '55-1'
+[08-May-2025 23:15:43 Europe/Berlin] Nuevo producto agregado: {"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}
+[08-May-2025 23:15:43 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":5,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"},{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[08-May-2025 23:15:53 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[08-May-2025 23:15:53 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[08-May-2025 23:15:53 Europe/Berlin] Stock verificado para producto 55, talla 2: 15
+[08-May-2025 23:15:53 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":5,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"},{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[08-May-2025 23:15:53 Europe/Berlin] Comparando ID compuesto: '55-2' con ID compuesto recibido: '55-2'
+[08-May-2025 23:15:53 Europe/Berlin] Producto existente actualizado - ID: 55-2, Cantidad anterior: 5, Nueva cantidad: 6
+[08-May-2025 23:15:53 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":6,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"},{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[09-May-2025 02:57:19 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[09-May-2025 02:57:19 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[09-May-2025 02:57:19 Europe/Berlin] Stock verificado para producto 55, talla 1: 10
+[09-May-2025 02:57:19 Europe/Berlin] Carrito actual antes de actualizar: []
+[09-May-2025 02:57:19 Europe/Berlin] Nuevo producto agregado: {"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}
+[09-May-2025 02:57:19 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[09-May-2025 02:57:52 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[09-May-2025 02:57:52 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[09-May-2025 02:57:52 Europe/Berlin] Stock verificado para producto 55, talla 2: 15
+[09-May-2025 02:57:52 Europe/Berlin] Carrito actual antes de actualizar: []
+[09-May-2025 02:57:52 Europe/Berlin] Nuevo producto agregado: {"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}
+[09-May-2025 02:57:52 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 02:57:55 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[09-May-2025 02:57:55 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[09-May-2025 02:57:55 Europe/Berlin] Stock verificado para producto 55, talla 2: 15
+[09-May-2025 02:57:55 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 02:57:55 Europe/Berlin] Comparando ID compuesto: '55-2' con ID compuesto recibido: '55-2'
+[09-May-2025 02:57:55 Europe/Berlin] Producto existente actualizado - ID: 55-2, Cantidad anterior: 1, Nueva cantidad: 2
+[09-May-2025 02:57:55 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":2,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 02:59:05 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M","idCompuesto":"55-3"}
+[09-May-2025 02:59:05 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 3, TallaTexto: M, IDCompuesto: 55-3
+[09-May-2025 02:59:05 Europe/Berlin] Stock verificado para producto 55, talla 3: 10
+[09-May-2025 02:59:05 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":2,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 02:59:05 Europe/Berlin] Comparando ID compuesto: '55-2' con ID compuesto recibido: '55-3'
+[09-May-2025 02:59:05 Europe/Berlin] Nuevo producto agregado: {"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}
+[09-May-2025 02:59:05 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":2,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[09-May-2025 03:07:04 Europe/Berlin] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[09-May-2025 03:07:04 Europe/Berlin] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[09-May-2025 03:07:04 Europe/Berlin] Stock verificado para producto 4, talla 2: 30
+[09-May-2025 03:07:04 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":4,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"},{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[09-May-2025 03:07:04 Europe/Berlin] Comparando ID compuesto: '55-3' con ID compuesto recibido: '4-2'
+[09-May-2025 03:07:04 Europe/Berlin] Comparando ID compuesto: '55-3' con ID compuesto recibido: '4-2'
+[09-May-2025 03:07:04 Europe/Berlin] Nuevo producto agregado: {"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}
+[09-May-2025 03:07:04 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":4,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"},{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 03:10:53 Europe/Berlin] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M","idCompuesto":"4-3"}
+[09-May-2025 03:10:53 Europe/Berlin] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 3, TallaTexto: M, IDCompuesto: 4-3
+[09-May-2025 03:10:53 Europe/Berlin] Stock verificado para producto 4, talla 3: 10
+[09-May-2025 03:10:53 Europe/Berlin] Carrito actual antes de actualizar: []
+[09-May-2025 03:10:53 Europe/Berlin] Nuevo producto agregado: {"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}
+[09-May-2025 03:10:53 Europe/Berlin] Carrito actualizado: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}]
+[09-May-2025 03:11:11 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[09-May-2025 03:11:11 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[09-May-2025 03:11:11 Europe/Berlin] Stock verificado para producto 55, talla 2: 15
+[09-May-2025 03:11:11 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}]
+[09-May-2025 03:11:11 Europe/Berlin] Comparando ID compuesto: '4-3' con ID compuesto recibido: '55-2'
+[09-May-2025 03:11:11 Europe/Berlin] Nuevo producto agregado: {"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}
+[09-May-2025 03:11:11 Europe/Berlin] Carrito actualizado: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 03:11:32 Europe/Berlin] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[09-May-2025 03:11:32 Europe/Berlin] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[09-May-2025 03:11:32 Europe/Berlin] Stock verificado para producto 4, talla 2: 30
+[09-May-2025 03:11:32 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 03:11:32 Europe/Berlin] Comparando ID compuesto: '4-3' con ID compuesto recibido: '4-2'
+[09-May-2025 03:11:32 Europe/Berlin] Comparando ID compuesto: '55-2' con ID compuesto recibido: '4-2'
+[09-May-2025 03:11:32 Europe/Berlin] Nuevo producto agregado: {"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}
+[09-May-2025 03:11:32 Europe/Berlin] Carrito actualizado: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 03:11:46 Europe/Berlin] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M","idCompuesto":"4-3"}
+[09-May-2025 03:11:46 Europe/Berlin] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 3, TallaTexto: M, IDCompuesto: 4-3
+[09-May-2025 03:11:46 Europe/Berlin] Stock verificado para producto 4, talla 3: 10
+[09-May-2025 03:11:46 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 03:11:46 Europe/Berlin] Comparando ID compuesto: '4-3' con ID compuesto recibido: '4-3'
+[09-May-2025 03:11:46 Europe/Berlin] Producto existente actualizado - ID: 4-3, Cantidad anterior: 1, Nueva cantidad: 2
+[09-May-2025 03:11:46 Europe/Berlin] Carrito actualizado: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 03:58:03 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[09-May-2025 03:58:03 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[09-May-2025 03:58:03 Europe/Berlin] Stock verificado para producto 55, talla 2: 15
+[09-May-2025 03:58:03 Europe/Berlin] Carrito actual antes de actualizar: []
+[09-May-2025 03:58:03 Europe/Berlin] Nuevo producto agregado: {"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}
+[09-May-2025 03:58:03 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 03:58:07 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M","idCompuesto":"55-3"}
+[09-May-2025 03:58:07 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 3, TallaTexto: M, IDCompuesto: 55-3
+[09-May-2025 03:58:07 Europe/Berlin] Stock verificado para producto 55, talla 3: 10
+[09-May-2025 03:58:07 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 03:58:07 Europe/Berlin] Comparando ID compuesto: '55-2' con ID compuesto recibido: '55-3'
+[09-May-2025 03:58:07 Europe/Berlin] Nuevo producto agregado: {"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}
+[09-May-2025 03:58:07 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[09-May-2025 03:58:19 Europe/Berlin] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[09-May-2025 03:58:19 Europe/Berlin] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[09-May-2025 03:58:19 Europe/Berlin] Stock verificado para producto 4, talla 2: 30
+[09-May-2025 03:58:19 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[09-May-2025 03:58:19 Europe/Berlin] Comparando ID compuesto: '55-2' con ID compuesto recibido: '4-2'
+[09-May-2025 03:58:19 Europe/Berlin] Comparando ID compuesto: '55-3' con ID compuesto recibido: '4-2'
+[09-May-2025 03:58:19 Europe/Berlin] Nuevo producto agregado: {"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}
+[09-May-2025 03:58:19 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 04:19:18 Europe/Berlin] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M","idCompuesto":"4-3"}
+[09-May-2025 04:19:18 Europe/Berlin] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 3, TallaTexto: M, IDCompuesto: 4-3
+[09-May-2025 04:19:18 Europe/Berlin] Stock verificado para producto 4, talla 3: 10
+[09-May-2025 04:19:18 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":10,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":10,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":10,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 04:19:18 Europe/Berlin] Comparando ID compuesto: '55-2' con ID compuesto recibido: '4-3'
+[09-May-2025 04:19:18 Europe/Berlin] Comparando ID compuesto: '55-3' con ID compuesto recibido: '4-3'
+[09-May-2025 04:19:18 Europe/Berlin] Comparando ID compuesto: '4-2' con ID compuesto recibido: '4-3'
+[09-May-2025 04:19:18 Europe/Berlin] Nuevo producto agregado: {"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}
+[09-May-2025 04:19:18 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":10,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":10,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":10,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}]
+[09-May-2025 04:46:01 Europe/Berlin] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[09-May-2025 04:46:01 Europe/Berlin] Inicializando carrito vacío
+[09-May-2025 04:46:01 Europe/Berlin] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[09-May-2025 04:46:01 Europe/Berlin] Stock verificado para producto 4, talla 2: 30
+[09-May-2025 04:46:01 Europe/Berlin] Carrito actual antes de actualizar: []
+[09-May-2025 04:46:01 Europe/Berlin] Nuevo producto agregado: {"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}
+[09-May-2025 04:46:01 Europe/Berlin] Carrito actualizado: [{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 04:56:29 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M","idCompuesto":"55-3"}
+[09-May-2025 04:56:29 Europe/Berlin] Inicializando carrito vacío
+[09-May-2025 04:56:29 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 3, TallaTexto: M, IDCompuesto: 55-3
+[09-May-2025 04:56:29 Europe/Berlin] Stock verificado para producto 55, talla 3: 10
+[09-May-2025 04:56:29 Europe/Berlin] Carrito actual antes de actualizar: []
+[09-May-2025 04:56:29 Europe/Berlin] Nuevo producto agregado: {"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}
+[09-May-2025 04:56:29 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[09-May-2025 04:56:43 Europe/Berlin] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M","idCompuesto":"4-3"}
+[09-May-2025 04:56:43 Europe/Berlin] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 3, TallaTexto: M, IDCompuesto: 4-3
+[09-May-2025 04:56:43 Europe/Berlin] Stock verificado para producto 4, talla 3: 10
+[09-May-2025 04:56:43 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[09-May-2025 04:56:43 Europe/Berlin] Comparando ID compuesto: '55-3' con ID compuesto recibido: '4-3'
+[09-May-2025 04:56:43 Europe/Berlin] Nuevo producto agregado: {"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}
+[09-May-2025 04:56:43 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}]
+[09-May-2025 04:56:46 Europe/Berlin] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[09-May-2025 04:56:46 Europe/Berlin] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[09-May-2025 04:56:46 Europe/Berlin] Stock verificado para producto 4, talla 2: 30
+[09-May-2025 04:56:46 Europe/Berlin] Carrito actual antes de actualizar: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}]
+[09-May-2025 04:56:46 Europe/Berlin] Comparando ID compuesto: '55-3' con ID compuesto recibido: '4-2'
+[09-May-2025 04:56:46 Europe/Berlin] Comparando ID compuesto: '4-3' con ID compuesto recibido: '4-2'
+[09-May-2025 04:56:46 Europe/Berlin] Nuevo producto agregado: {"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}
+[09-May-2025 04:56:46 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 05:54:24 Europe/Berlin] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[09-May-2025 05:54:24 Europe/Berlin] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[09-May-2025 05:54:24 Europe/Berlin] Stock verificado para producto 4, talla 2: 30
+[09-May-2025 05:54:24 Europe/Berlin] Carrito antes de agregar: []
+[09-May-2025 05:54:24 Europe/Berlin] Nuevo producto agregado: {"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}
+[09-May-2025 05:54:24 Europe/Berlin] Carrito actualizado: [{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 06:03:46 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[09-May-2025 06:03:46 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[09-May-2025 06:03:46 Europe/Berlin] Stock verificado para producto 55, talla 1: 10
+[09-May-2025 06:03:46 Europe/Berlin] Carrito antes de agregar: []
+[09-May-2025 06:03:46 Europe/Berlin] Nuevo producto agregado: {"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}
+[09-May-2025 06:03:46 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[09-May-2025 06:12:59 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[09-May-2025 06:12:59 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[09-May-2025 06:12:59 Europe/Berlin] Stock verificado para producto 55, talla 1: 10
+[09-May-2025 06:12:59 Europe/Berlin] Carrito antes de agregar: []
+[09-May-2025 06:12:59 Europe/Berlin] Nuevo producto agregado: {"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}
+[09-May-2025 06:12:59 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[09-May-2025 06:13:26 Europe/Berlin] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[09-May-2025 06:13:26 Europe/Berlin] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[09-May-2025 06:13:26 Europe/Berlin] Stock verificado para producto 4, talla 2: 30
+[09-May-2025 06:13:26 Europe/Berlin] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[09-May-2025 06:13:26 Europe/Berlin] Nuevo producto agregado: {"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}
+[09-May-2025 06:13:26 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 06:13:31 Europe/Berlin] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M","idCompuesto":"4-3"}
+[09-May-2025 06:13:31 Europe/Berlin] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 3, TallaTexto: M, IDCompuesto: 4-3
+[09-May-2025 06:13:31 Europe/Berlin] Stock verificado para producto 4, talla 3: 10
+[09-May-2025 06:13:31 Europe/Berlin] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 06:13:31 Europe/Berlin] Nuevo producto agregado: {"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}
+[09-May-2025 06:13:31 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}]
+[09-May-2025 06:13:42 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M","idCompuesto":"55-3"}
+[09-May-2025 06:13:42 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 3, TallaTexto: M, IDCompuesto: 55-3
+[09-May-2025 06:13:42 Europe/Berlin] Stock verificado para producto 55, talla 3: 10
+[09-May-2025 06:13:42 Europe/Berlin] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}]
+[09-May-2025 06:13:42 Europe/Berlin] Nuevo producto agregado: {"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}
+[09-May-2025 06:13:42 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[09-May-2025 06:14:43 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[09-May-2025 06:14:43 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[09-May-2025 06:14:43 Europe/Berlin] Stock verificado para producto 55, talla 1: 10
+[09-May-2025 06:14:43 Europe/Berlin] Carrito antes de agregar: []
+[09-May-2025 06:14:43 Europe/Berlin] Nuevo producto agregado: {"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}
+[09-May-2025 06:14:43 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[09-May-2025 06:14:54 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[09-May-2025 06:14:54 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[09-May-2025 06:14:54 Europe/Berlin] Stock verificado para producto 55, talla 2: 15
+[09-May-2025 06:14:54 Europe/Berlin] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[09-May-2025 06:14:54 Europe/Berlin] Nuevo producto agregado: {"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}
+[09-May-2025 06:14:54 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 06:14:57 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M","idCompuesto":"55-3"}
+[09-May-2025 06:14:57 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 3, TallaTexto: M, IDCompuesto: 55-3
+[09-May-2025 06:14:57 Europe/Berlin] Stock verificado para producto 55, talla 3: 10
+[09-May-2025 06:14:57 Europe/Berlin] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 06:14:57 Europe/Berlin] Nuevo producto agregado: {"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}
+[09-May-2025 06:14:57 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[09-May-2025 06:16:01 Europe/Berlin] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[09-May-2025 06:16:01 Europe/Berlin] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[09-May-2025 06:16:01 Europe/Berlin] Stock verificado para producto 4, talla 2: 30
+[09-May-2025 06:16:01 Europe/Berlin] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[09-May-2025 06:16:01 Europe/Berlin] Nuevo producto agregado: {"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}
+[09-May-2025 06:16:01 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 06:16:04 Europe/Berlin] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M","idCompuesto":"4-3"}
+[09-May-2025 06:16:04 Europe/Berlin] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 3, TallaTexto: M, IDCompuesto: 4-3
+[09-May-2025 06:16:04 Europe/Berlin] Stock verificado para producto 4, talla 3: 10
+[09-May-2025 06:16:04 Europe/Berlin] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[09-May-2025 06:16:04 Europe/Berlin] Nuevo producto agregado: {"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}
+[09-May-2025 06:16:04 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}]
+[09-May-2025 22:19:06 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[09-May-2025 22:19:07 Europe/Berlin] Inicializando carrito vacío
+[09-May-2025 22:19:07 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[09-May-2025 22:19:07 Europe/Berlin] Stock verificado para producto 55, talla 1: 10
+[09-May-2025 22:19:07 Europe/Berlin] Carrito antes de agregar: []
+[09-May-2025 22:19:07 Europe/Berlin] Nuevo producto agregado: {"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}
+[09-May-2025 22:19:07 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[09-May-2025 22:19:08 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[09-May-2025 22:19:08 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[09-May-2025 22:19:08 Europe/Berlin] Stock verificado para producto 55, talla 1: 10
+[09-May-2025 22:19:08 Europe/Berlin] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[09-May-2025 22:19:08 Europe/Berlin] Producto existente actualizado - ID: 55-1, Cantidad anterior: 1, Nueva cantidad: 2
+[09-May-2025 22:19:08 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":2,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[09-May-2025 22:19:23 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M","idCompuesto":"55-3"}
+[09-May-2025 22:19:23 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 3, TallaTexto: M, IDCompuesto: 55-3
+[09-May-2025 22:19:23 Europe/Berlin] Stock verificado para producto 55, talla 3: 10
+[09-May-2025 22:19:23 Europe/Berlin] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":2,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[09-May-2025 22:19:23 Europe/Berlin] Nuevo producto agregado: {"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}
+[09-May-2025 22:19:23 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":2,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[09-May-2025 22:19:32 Europe/Berlin] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[09-May-2025 22:19:32 Europe/Berlin] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[09-May-2025 22:19:32 Europe/Berlin] Stock verificado para producto 4, talla 2: 30
+[09-May-2025 22:19:32 Europe/Berlin] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":2,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[09-May-2025 22:19:32 Europe/Berlin] Nuevo producto agregado: {"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}
+[09-May-2025 22:19:32 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":2,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[13-May-2025 06:15:55 Europe/Berlin] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[13-May-2025 06:15:55 Europe/Berlin] Inicializando carrito vacío
+[13-May-2025 06:15:55 Europe/Berlin] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[13-May-2025 06:15:55 Europe/Berlin] Stock verificado para producto 55, talla 1: 10
+[13-May-2025 06:15:55 Europe/Berlin] Carrito antes de agregar: []
+[13-May-2025 06:15:55 Europe/Berlin] Nuevo producto agregado: {"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}
+[13-May-2025 06:15:55 Europe/Berlin] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[15-May-2025 00:50:47 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[15-May-2025 00:50:47 UTC] Inicializando carrito vacío
+[15-May-2025 00:50:47 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[15-May-2025 00:50:47 UTC] Stock verificado para producto 55, talla 1: 10
+[15-May-2025 00:50:47 UTC] Carrito antes de agregar: []
+[15-May-2025 00:50:47 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}
+[15-May-2025 00:50:47 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[15-May-2025 00:51:03 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[15-May-2025 00:51:03 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[15-May-2025 00:51:03 UTC] Stock verificado para producto 55, talla 2: 15
+[15-May-2025 00:51:03 UTC] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[15-May-2025 00:51:03 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}
+[15-May-2025 00:51:03 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[15-May-2025 17:28:48 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[15-May-2025 17:28:48 UTC] Inicializando carrito vacío
+[15-May-2025 17:28:48 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[15-May-2025 17:28:48 UTC] Stock verificado para producto 55, talla 1: 10
+[15-May-2025 17:28:48 UTC] Carrito antes de agregar: []
+[15-May-2025 17:28:48 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}
+[15-May-2025 17:28:48 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[17-May-2025 00:29:14 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[17-May-2025 00:29:14 UTC] Inicializando carrito vacío
+[17-May-2025 00:29:14 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[17-May-2025 00:29:14 UTC] Stock verificado para producto 55, talla 1: 10
+[17-May-2025 00:29:14 UTC] Carrito antes de agregar: []
+[17-May-2025 00:29:14 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}
+[17-May-2025 00:29:14 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[17-May-2025 00:29:17 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[17-May-2025 00:29:17 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[17-May-2025 00:29:17 UTC] Stock verificado para producto 55, talla 2: 15
+[17-May-2025 00:29:17 UTC] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[17-May-2025 00:29:17 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}
+[17-May-2025 00:29:17 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[17-May-2025 00:29:47 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"3","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[17-May-2025 00:29:47 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 3, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[17-May-2025 00:29:47 UTC] Stock verificado para producto 4, talla 2: 30
+[17-May-2025 00:29:47 UTC] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[17-May-2025 00:29:47 UTC] Nuevo producto agregado: {"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":3,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}
+[17-May-2025 00:29:47 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":3,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[17-May-2025 01:54:38 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"3","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[17-May-2025 01:54:38 UTC] Inicializando carrito vacío
+[17-May-2025 01:54:38 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 3, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[17-May-2025 01:54:38 UTC] Stock verificado para producto 55, talla 1: 10
+[17-May-2025 01:54:38 UTC] Carrito antes de agregar: []
+[17-May-2025 01:54:38 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":3,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}
+[17-May-2025 01:54:38 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":3,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[17-May-2025 02:02:30 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[17-May-2025 02:02:30 UTC] Inicializando carrito vacío
+[17-May-2025 02:02:30 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[17-May-2025 02:02:30 UTC] Stock verificado para producto 55, talla 1: 7
+[17-May-2025 02:02:30 UTC] Carrito antes de agregar: []
+[17-May-2025 02:02:30 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}
+[17-May-2025 02:02:30 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[17-May-2025 02:37:18 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[17-May-2025 02:37:18 UTC] Inicializando carrito vacío
+[17-May-2025 02:37:18 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[17-May-2025 02:37:18 UTC] Stock verificado para producto 55, talla 1: 6
+[17-May-2025 02:37:18 UTC] Carrito antes de agregar: []
+[17-May-2025 02:37:18 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}
+[17-May-2025 02:37:18 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[17-May-2025 03:00:47 UTC] Request received: {"id":"55","nombre":"Club Nike","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[17-May-2025 03:00:47 UTC] Inicializando carrito vacío
+[17-May-2025 03:00:47 UTC] Datos recibidos - ID: 55, Nombre: Club Nike, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[17-May-2025 03:00:47 UTC] Stock verificado para producto 55, talla 1: 5
+[17-May-2025 03:00:47 UTC] Carrito antes de agregar: []
+[17-May-2025 03:00:47 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-1","nombre":"Club Nike","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}
+[17-May-2025 03:00:47 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Club Nike","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[17-May-2025 03:00:50 UTC] Request received: {"id":"55","nombre":"Club Nike","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[17-May-2025 03:00:50 UTC] Datos recibidos - ID: 55, Nombre: Club Nike, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[17-May-2025 03:00:50 UTC] Stock verificado para producto 55, talla 1: 5
+[17-May-2025 03:00:50 UTC] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-1","nombre":"Club Nike","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[17-May-2025 03:00:50 UTC] Producto existente actualizado - ID: 55-1, Cantidad anterior: 1, Nueva cantidad: 2
+[17-May-2025 03:00:50 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Club Nike","precio":850000,"cantidad":2,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[17-May-2025 03:00:51 UTC] Request received: {"id":"55","nombre":"Club Nike","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[17-May-2025 03:00:51 UTC] Datos recibidos - ID: 55, Nombre: Club Nike, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[17-May-2025 03:00:51 UTC] Stock verificado para producto 55, talla 1: 5
+[17-May-2025 03:00:51 UTC] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-1","nombre":"Club Nike","precio":850000,"cantidad":2,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[17-May-2025 03:00:51 UTC] Producto existente actualizado - ID: 55-1, Cantidad anterior: 2, Nueva cantidad: 3
+[17-May-2025 03:00:51 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Club Nike","precio":850000,"cantidad":3,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[17-May-2025 04:17:21 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[17-May-2025 04:17:21 UTC] Inicializando carrito vacío
+[17-May-2025 04:17:21 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[17-May-2025 04:17:21 UTC] Stock verificado para producto 55, talla 1: 5
+[17-May-2025 04:17:21 UTC] Carrito antes de agregar: []
+[17-May-2025 04:17:21 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}
+[17-May-2025 04:17:21 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[21-May-2025 23:08:47 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[21-May-2025 23:08:47 UTC] Inicializando carrito vacío
+[21-May-2025 23:08:47 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[21-May-2025 23:08:47 UTC] Stock verificado para producto 55, talla 2: 15
+[21-May-2025 23:08:47 UTC] Carrito antes de agregar: []
+[21-May-2025 23:08:47 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}
+[21-May-2025 23:08:47 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[21-May-2025 23:10:20 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[21-May-2025 23:10:20 UTC] Inicializando carrito vacío
+[21-May-2025 23:10:20 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[21-May-2025 23:10:20 UTC] Stock verificado para producto 55, talla 2: 14
+[21-May-2025 23:10:20 UTC] Carrito antes de agregar: []
+[21-May-2025 23:10:20 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}
+[21-May-2025 23:10:20 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[21-May-2025 23:10:39 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[21-May-2025 23:10:39 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[21-May-2025 23:10:39 UTC] Stock verificado para producto 4, talla 2: 30
+[21-May-2025 23:10:39 UTC] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[21-May-2025 23:10:39 UTC] Nuevo producto agregado: {"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}
+[21-May-2025 23:10:39 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[21-May-2025 23:28:51 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[21-May-2025 23:28:51 UTC] Inicializando carrito vacío
+[21-May-2025 23:28:51 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[21-May-2025 23:28:51 UTC] Stock verificado para producto 55, talla 2: 13
+[21-May-2025 23:28:51 UTC] Carrito antes de agregar: []
+[21-May-2025 23:28:51 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}
+[21-May-2025 23:28:51 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[21-May-2025 23:29:08 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[21-May-2025 23:29:08 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[21-May-2025 23:29:08 UTC] Stock verificado para producto 4, talla 2: 29
+[21-May-2025 23:29:08 UTC] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[21-May-2025 23:29:08 UTC] Nuevo producto agregado: {"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}
+[21-May-2025 23:29:08 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[21-May-2025 23:36:03 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[21-May-2025 23:36:03 UTC] Inicializando carrito vacío
+[21-May-2025 23:36:03 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[21-May-2025 23:36:03 UTC] Stock verificado para producto 55, talla 2: 12
+[21-May-2025 23:36:03 UTC] Carrito antes de agregar: []
+[21-May-2025 23:36:03 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}
+[21-May-2025 23:36:03 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[21-May-2025 23:36:15 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[21-May-2025 23:36:15 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[21-May-2025 23:36:15 UTC] Stock verificado para producto 4, talla 2: 28
+[21-May-2025 23:36:15 UTC] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[21-May-2025 23:36:15 UTC] Nuevo producto agregado: {"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}
+[21-May-2025 23:36:15 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[21-May-2025 23:38:21 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[21-May-2025 23:38:21 UTC] Inicializando carrito vacío
+[21-May-2025 23:38:21 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[21-May-2025 23:38:21 UTC] Stock verificado para producto 55, talla 2: 11
+[21-May-2025 23:38:21 UTC] Carrito antes de agregar: []
+[21-May-2025 23:38:21 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}
+[21-May-2025 23:38:21 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[21-May-2025 23:44:40 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[21-May-2025 23:44:40 UTC] Inicializando carrito vacío
+[21-May-2025 23:44:40 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[21-May-2025 23:44:40 UTC] Stock verificado para producto 55, talla 2: 10
+[21-May-2025 23:44:40 UTC] Carrito antes de agregar: []
+[21-May-2025 23:44:40 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}
+[21-May-2025 23:44:40 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[21-May-2025 23:44:45 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[21-May-2025 23:44:45 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[21-May-2025 23:44:45 UTC] Stock verificado para producto 55, talla 2: 10
+[21-May-2025 23:44:45 UTC] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[21-May-2025 23:44:45 UTC] Producto existente actualizado - ID: 55-2, Cantidad anterior: 1, Nueva cantidad: 2
+[21-May-2025 23:44:45 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":2,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[21-May-2025 23:52:29 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M","idCompuesto":"4-3"}
+[21-May-2025 23:52:29 UTC] Inicializando carrito vacío
+[21-May-2025 23:52:29 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 3, TallaTexto: M, IDCompuesto: 4-3
+[21-May-2025 23:52:29 UTC] Stock verificado para producto 4, talla 3: 10
+[21-May-2025 23:52:29 UTC] Carrito antes de agregar: []
+[21-May-2025 23:52:29 UTC] Nuevo producto agregado: {"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}
+[21-May-2025 23:52:29 UTC] Carrito actualizado: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}]
+[21-May-2025 23:52:32 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"3","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M","idCompuesto":"4-3"}
+[21-May-2025 23:52:32 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 3, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 3, TallaTexto: M, IDCompuesto: 4-3
+[21-May-2025 23:52:32 UTC] Stock verificado para producto 4, talla 3: 10
+[21-May-2025 23:52:32 UTC] Carrito antes de agregar: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}]
+[21-May-2025 23:52:32 UTC] Producto existente actualizado - ID: 4-3, Cantidad anterior: 1, Nueva cantidad: 4
+[21-May-2025 23:52:32 UTC] Carrito actualizado: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":4,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}]
+[23-May-2025 14:03:54 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"2","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M","idCompuesto":"4-3"}
+[23-May-2025 14:03:54 UTC] Inicializando carrito vacío
+[23-May-2025 14:03:54 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 2, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 3, TallaTexto: M, IDCompuesto: 4-3
+[23-May-2025 14:03:54 UTC] Stock verificado para producto 4, talla 3: 6
+[23-May-2025 14:03:54 UTC] Carrito antes de agregar: []
+[23-May-2025 14:03:54 UTC] Nuevo producto agregado: {"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}
+[23-May-2025 14:03:54 UTC] Carrito actualizado: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}]
+[23-May-2025 14:04:02 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"2","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[23-May-2025 14:04:02 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 2, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[23-May-2025 14:04:02 UTC] Stock verificado para producto 4, talla 2: 27
+[23-May-2025 14:04:02 UTC] Carrito antes de agregar: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}]
+[23-May-2025 14:04:02 UTC] Nuevo producto agregado: {"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}
+[23-May-2025 14:04:02 UTC] Carrito actualizado: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:05 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"2","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[23-May-2025 14:04:05 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 2, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[23-May-2025 14:04:05 UTC] Stock verificado para producto 4, talla 2: 27
+[23-May-2025 14:04:05 UTC] Carrito antes de agregar: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:05 UTC] Producto existente actualizado - ID: 4-2, Cantidad anterior: 2, Nueva cantidad: 4
+[23-May-2025 14:04:05 UTC] Carrito actualizado: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":4,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:07 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"2","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[23-May-2025 14:04:07 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 2, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[23-May-2025 14:04:07 UTC] Stock verificado para producto 4, talla 2: 27
+[23-May-2025 14:04:07 UTC] Carrito antes de agregar: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":4,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:07 UTC] Producto existente actualizado - ID: 4-2, Cantidad anterior: 4, Nueva cantidad: 6
+[23-May-2025 14:04:07 UTC] Carrito actualizado: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":6,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:07 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"2","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[23-May-2025 14:04:07 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 2, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[23-May-2025 14:04:07 UTC] Stock verificado para producto 4, talla 2: 27
+[23-May-2025 14:04:07 UTC] Carrito antes de agregar: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":6,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:07 UTC] Producto existente actualizado - ID: 4-2, Cantidad anterior: 6, Nueva cantidad: 8
+[23-May-2025 14:04:07 UTC] Carrito actualizado: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":8,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:07 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"2","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[23-May-2025 14:04:07 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 2, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[23-May-2025 14:04:07 UTC] Stock verificado para producto 4, talla 2: 27
+[23-May-2025 14:04:07 UTC] Carrito antes de agregar: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":8,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:07 UTC] Producto existente actualizado - ID: 4-2, Cantidad anterior: 8, Nueva cantidad: 10
+[23-May-2025 14:04:07 UTC] Carrito actualizado: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":10,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:08 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"2","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[23-May-2025 14:04:08 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 2, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[23-May-2025 14:04:08 UTC] Stock verificado para producto 4, talla 2: 27
+[23-May-2025 14:04:08 UTC] Carrito antes de agregar: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":10,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:08 UTC] Producto existente actualizado - ID: 4-2, Cantidad anterior: 10, Nueva cantidad: 12
+[23-May-2025 14:04:08 UTC] Carrito actualizado: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":12,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:08 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"2","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[23-May-2025 14:04:08 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 2, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[23-May-2025 14:04:08 UTC] Stock verificado para producto 4, talla 2: 27
+[23-May-2025 14:04:08 UTC] Carrito antes de agregar: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":12,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:08 UTC] Producto existente actualizado - ID: 4-2, Cantidad anterior: 12, Nueva cantidad: 14
+[23-May-2025 14:04:08 UTC] Carrito actualizado: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":14,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:08 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"2","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[23-May-2025 14:04:08 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 2, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[23-May-2025 14:04:08 UTC] Stock verificado para producto 4, talla 2: 27
+[23-May-2025 14:04:08 UTC] Carrito antes de agregar: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":14,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:08 UTC] Producto existente actualizado - ID: 4-2, Cantidad anterior: 14, Nueva cantidad: 16
+[23-May-2025 14:04:08 UTC] Carrito actualizado: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":16,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:08 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"2","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[23-May-2025 14:04:08 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 2, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[23-May-2025 14:04:08 UTC] Stock verificado para producto 4, talla 2: 27
+[23-May-2025 14:04:08 UTC] Carrito antes de agregar: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":16,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:08 UTC] Producto existente actualizado - ID: 4-2, Cantidad anterior: 16, Nueva cantidad: 18
+[23-May-2025 14:04:08 UTC] Carrito actualizado: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":18,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:08 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"2","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[23-May-2025 14:04:08 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 2, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[23-May-2025 14:04:08 UTC] Stock verificado para producto 4, talla 2: 27
+[23-May-2025 14:04:08 UTC] Carrito antes de agregar: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":18,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:08 UTC] Producto existente actualizado - ID: 4-2, Cantidad anterior: 18, Nueva cantidad: 20
+[23-May-2025 14:04:08 UTC] Carrito actualizado: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":20,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:09 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"2","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[23-May-2025 14:04:09 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 2, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[23-May-2025 14:04:09 UTC] Stock verificado para producto 4, talla 2: 27
+[23-May-2025 14:04:09 UTC] Carrito antes de agregar: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":20,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:09 UTC] Producto existente actualizado - ID: 4-2, Cantidad anterior: 20, Nueva cantidad: 22
+[23-May-2025 14:04:09 UTC] Carrito actualizado: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":22,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:09 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"2","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[23-May-2025 14:04:09 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 2, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[23-May-2025 14:04:09 UTC] Stock verificado para producto 4, talla 2: 27
+[23-May-2025 14:04:09 UTC] Carrito antes de agregar: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":22,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:09 UTC] Producto existente actualizado - ID: 4-2, Cantidad anterior: 22, Nueva cantidad: 24
+[23-May-2025 14:04:09 UTC] Carrito actualizado: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":24,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:09 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"2","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[23-May-2025 14:04:09 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 2, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[23-May-2025 14:04:09 UTC] Stock verificado para producto 4, talla 2: 27
+[23-May-2025 14:04:09 UTC] Carrito antes de agregar: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":24,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[23-May-2025 14:04:09 UTC] Producto existente actualizado - ID: 4-2, Cantidad anterior: 24, Nueva cantidad: 26
+[23-May-2025 14:04:09 UTC] Carrito actualizado: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":2,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":26,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[25-May-2025 07:43:35 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M","idCompuesto":"55-3"}
+[25-May-2025 07:43:35 UTC] Inicializando carrito vacío
+[25-May-2025 07:43:35 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 3, TallaTexto: M, IDCompuesto: 55-3
+[25-May-2025 07:43:35 UTC] Stock verificado para producto 55, talla 3: 10
+[25-May-2025 07:43:35 UTC] Carrito antes de agregar: []
+[25-May-2025 07:43:35 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}
+[25-May-2025 07:43:35 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[25-May-2025 07:51:47 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M","idCompuesto":"55-3"}
+[25-May-2025 07:51:47 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 3, TallaTexto: M, IDCompuesto: 55-3
+[25-May-2025 07:51:47 UTC] Stock verificado para producto 55, talla 3: 10
+[25-May-2025 07:51:47 UTC] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[25-May-2025 07:51:47 UTC] Producto existente actualizado - ID: 55-3, Cantidad anterior: 1, Nueva cantidad: 2
+[25-May-2025 07:51:47 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":2,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[25-May-2025 07:53:11 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M","idCompuesto":"55-3"}
+[25-May-2025 07:53:11 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 3, TallaTexto: M, IDCompuesto: 55-3
+[25-May-2025 07:53:11 UTC] Stock verificado para producto 55, talla 3: 10
+[25-May-2025 07:53:11 UTC] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":2,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[25-May-2025 07:53:11 UTC] Producto existente actualizado - ID: 55-3, Cantidad anterior: 2, Nueva cantidad: 3
+[25-May-2025 07:53:11 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":3,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[25-May-2025 07:53:19 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M","idCompuesto":"55-3"}
+[25-May-2025 07:53:19 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 3, TallaTexto: M, IDCompuesto: 55-3
+[25-May-2025 07:53:19 UTC] Stock verificado para producto 55, talla 3: 10
+[25-May-2025 07:53:19 UTC] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":3,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[25-May-2025 07:53:19 UTC] Producto existente actualizado - ID: 55-3, Cantidad anterior: 3, Nueva cantidad: 4
+[25-May-2025 07:53:19 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":4,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[25-May-2025 08:03:10 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M","idCompuesto":"55-3"}
+[25-May-2025 08:03:10 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 3, TallaTexto: M, IDCompuesto: 55-3
+[25-May-2025 08:03:10 UTC] Stock verificado para producto 55, talla 3: 10
+[25-May-2025 08:03:10 UTC] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":4,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[25-May-2025 08:03:10 UTC] Producto existente actualizado - ID: 55-3, Cantidad anterior: 4, Nueva cantidad: 5
+[25-May-2025 08:03:10 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":5,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[25-May-2025 08:04:51 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M","idCompuesto":"55-3"}
+[25-May-2025 08:04:51 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 3, TallaTexto: M, IDCompuesto: 55-3
+[25-May-2025 08:04:51 UTC] Stock verificado para producto 55, talla 3: 10
+[25-May-2025 08:04:51 UTC] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":5,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[25-May-2025 08:04:51 UTC] Producto existente actualizado - ID: 55-3, Cantidad anterior: 5, Nueva cantidad: 6
+[25-May-2025 08:04:51 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":6,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[25-May-2025 08:05:27 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[25-May-2025 08:05:27 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[25-May-2025 08:05:27 UTC] Stock verificado para producto 4, talla 2: 17
+[25-May-2025 08:05:27 UTC] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":6,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[25-May-2025 08:05:27 UTC] Nuevo producto agregado: {"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}
+[25-May-2025 08:05:27 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":6,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[25-May-2025 08:11:05 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[25-May-2025 08:11:05 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[25-May-2025 08:11:05 UTC] Stock verificado para producto 4, talla 2: 17
+[25-May-2025 08:11:05 UTC] Carrito antes de agregar: []
+[25-May-2025 08:11:05 UTC] Nuevo producto agregado: {"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}
+[25-May-2025 08:11:05 UTC] Carrito actualizado: [{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[25-May-2025 08:15:58 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[25-May-2025 08:15:58 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[25-May-2025 08:15:58 UTC] Stock verificado para producto 55, talla 1: 4
+[25-May-2025 08:15:58 UTC] Carrito antes de agregar: [{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[25-May-2025 08:15:58 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}
+[25-May-2025 08:15:58 UTC] Carrito actualizado: [{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"},{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[25-May-2025 08:16:47 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[25-May-2025 08:16:47 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[25-May-2025 08:16:47 UTC] Stock verificado para producto 55, talla 1: 4
+[25-May-2025 08:16:47 UTC] Carrito antes de agregar: []
+[25-May-2025 08:16:47 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}
+[25-May-2025 08:16:47 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[25-May-2025 08:17:23 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[25-May-2025 08:17:23 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[25-May-2025 08:17:23 UTC] Stock verificado para producto 55, talla 1: 4
+[25-May-2025 08:17:23 UTC] Carrito antes de agregar: []
+[25-May-2025 08:17:23 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}
+[25-May-2025 08:17:23 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[25-May-2025 08:36:51 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[25-May-2025 08:36:51 UTC] Inicializando carrito vacío
+[25-May-2025 08:36:51 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[25-May-2025 08:36:51 UTC] Stock verificado para producto 55, talla 1: 3
+[25-May-2025 08:36:51 UTC] Carrito antes de agregar: []
+[25-May-2025 08:36:51 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}
+[25-May-2025 08:36:51 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[25-May-2025 08:36:59 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[25-May-2025 08:36:59 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[25-May-2025 08:36:59 UTC] Stock verificado para producto 55, talla 2: 8
+[25-May-2025 08:36:59 UTC] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[25-May-2025 08:36:59 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}
+[25-May-2025 08:36:59 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[25-May-2025 08:37:33 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"10","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[25-May-2025 08:37:33 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 10, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[25-May-2025 08:37:33 UTC] Stock verificado para producto 4, talla 2: 17
+[25-May-2025 08:37:33 UTC] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[25-May-2025 08:37:33 UTC] Nuevo producto agregado: {"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":10,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}
+[25-May-2025 08:37:33 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":10,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[27-May-2025 02:43:52 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"2","foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS","idCompuesto":"55-1"}
+[27-May-2025 02:43:52 UTC] Inicializando carrito vacío
+[27-May-2025 02:43:52 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 2, Foto: m-nk-club-cargo-shortz.png, Talla: 1, TallaTexto: XS, IDCompuesto: 55-1
+[27-May-2025 02:43:52 UTC] Stock verificado para producto 55, talla 1: 2
+[27-May-2025 02:43:52 UTC] Carrito antes de agregar: []
+[27-May-2025 02:43:52 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":2,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}
+[27-May-2025 02:43:52 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":2,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[27-May-2025 02:44:56 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"6","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[27-May-2025 02:44:56 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 6, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[27-May-2025 02:44:56 UTC] Stock verificado para producto 4, talla 2: 7
+[27-May-2025 02:44:56 UTC] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":2,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"}]
+[27-May-2025 02:44:56 UTC] Nuevo producto agregado: {"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":6,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}
+[27-May-2025 02:44:56 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-1","nombre":"Nike Club","precio":850000,"cantidad":2,"foto":"m-nk-club-cargo-shortz.png","talla":"1","tallaTexto":"XS"},{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":6,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[27-May-2025 03:23:31 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S","idCompuesto":"4-2"}
+[27-May-2025 03:23:31 UTC] Inicializando carrito vacío
+[27-May-2025 03:23:31 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 2, TallaTexto: S, IDCompuesto: 4-2
+[27-May-2025 03:23:31 UTC] Stock verificado para producto 4, talla 2: 1
+[27-May-2025 03:23:31 UTC] Carrito antes de agregar: []
+[27-May-2025 03:23:31 UTC] Nuevo producto agregado: {"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}
+[27-May-2025 03:23:31 UTC] Carrito actualizado: [{"id":"4","idCompuesto":"4-2","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"2","tallaTexto":"S"}]
+[27-May-2025 12:52:04 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[27-May-2025 12:52:04 UTC] Inicializando carrito vacío
+[27-May-2025 12:52:04 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[27-May-2025 12:52:04 UTC] Stock verificado para producto 55, talla 2: 8
+[27-May-2025 12:52:04 UTC] Carrito antes de agregar: []
+[27-May-2025 12:52:04 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}
+[27-May-2025 12:52:04 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[27-May-2025 12:52:05 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[27-May-2025 12:52:05 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[27-May-2025 12:52:05 UTC] Stock verificado para producto 55, talla 2: 8
+[27-May-2025 12:52:05 UTC] Carrito antes de agregar: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[27-May-2025 12:52:05 UTC] Producto existente actualizado - ID: 55-2, Cantidad anterior: 1, Nueva cantidad: 2
+[27-May-2025 12:52:05 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":2,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[27-May-2025 13:23:39 UTC] Request received: {"id":"4","nombre":"Nike Tech","precio":"700000","cantidad":"1","foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M","idCompuesto":"4-3"}
+[27-May-2025 13:23:39 UTC] Inicializando carrito vacío
+[27-May-2025 13:23:39 UTC] Datos recibidos - ID: 4, Nombre: Nike Tech, Precio: 700000, Cantidad: 1, Foto: M+NK+TCH+FLC+FZ+WR+HOODIEn.png, Talla: 3, TallaTexto: M, IDCompuesto: 4-3
+[27-May-2025 13:23:39 UTC] Stock verificado para producto 4, talla 3: 4
+[27-May-2025 13:23:39 UTC] Carrito antes de agregar: []
+[27-May-2025 13:23:39 UTC] Nuevo producto agregado: {"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}
+[27-May-2025 13:23:39 UTC] Carrito actualizado: [{"id":"4","idCompuesto":"4-3","nombre":"Nike Tech","precio":700000,"cantidad":1,"foto":"M+NK+TCH+FLC+FZ+WR+HOODIEn.png","talla":"3","tallaTexto":"M"}]
+[02-Jun-2025 20:19:14 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[02-Jun-2025 20:19:14 UTC] Inicializando carrito vacío
+[02-Jun-2025 20:19:14 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[02-Jun-2025 20:19:14 UTC] Stock verificado para producto 55, talla 2: 6
+[02-Jun-2025 20:19:14 UTC] Carrito antes de agregar: []
+[02-Jun-2025 20:19:14 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}
+[02-Jun-2025 20:19:14 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[02-Jun-2025 20:20:59 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S","idCompuesto":"55-2"}
+[02-Jun-2025 20:20:59 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 2, TallaTexto: S, IDCompuesto: 55-2
+[02-Jun-2025 20:20:59 UTC] Stock verificado para producto 55, talla 2: 6
+[02-Jun-2025 20:20:59 UTC] Carrito antes de agregar: []
+[02-Jun-2025 20:20:59 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}
+[02-Jun-2025 20:20:59 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-2","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"2","tallaTexto":"S"}]
+[03-Jun-2025 02:29:34 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M","idCompuesto":"55-3"}
+[03-Jun-2025 02:29:34 UTC] Inicializando carrito vacío
+[03-Jun-2025 02:29:34 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 3, TallaTexto: M, IDCompuesto: 55-3
+[03-Jun-2025 02:29:34 UTC] Stock verificado para producto 55, talla 3: 5
+[03-Jun-2025 02:29:34 UTC] Carrito antes de agregar: []
+[03-Jun-2025 02:29:34 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}
+[03-Jun-2025 02:29:34 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[03-Jun-2025 03:52:50 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"2","foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M","idCompuesto":"55-3"}
+[03-Jun-2025 03:52:50 UTC] Inicializando carrito vacío
+[03-Jun-2025 03:52:50 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 2, Foto: m-nk-club-cargo-shortz.png, Talla: 3, TallaTexto: M, IDCompuesto: 55-3
+[03-Jun-2025 03:52:50 UTC] Stock verificado para producto 55, talla 3: 4
+[03-Jun-2025 03:52:50 UTC] Carrito antes de agregar: []
+[03-Jun-2025 03:52:50 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":2,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}
+[03-Jun-2025 03:52:50 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":2,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]
+[03-Jun-2025 17:59:38 UTC] Request received: {"id":"55","nombre":"Nike Club","precio":"850000","cantidad":"1","foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M","idCompuesto":"55-3"}
+[03-Jun-2025 17:59:38 UTC] Inicializando carrito vacío
+[03-Jun-2025 17:59:38 UTC] Datos recibidos - ID: 55, Nombre: Nike Club, Precio: 850000, Cantidad: 1, Foto: m-nk-club-cargo-shortz.png, Talla: 3, TallaTexto: M, IDCompuesto: 55-3
+[03-Jun-2025 17:59:38 UTC] Stock verificado para producto 55, talla 3: 2
+[03-Jun-2025 17:59:38 UTC] Carrito antes de agregar: []
+[03-Jun-2025 17:59:38 UTC] Nuevo producto agregado: {"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}
+[03-Jun-2025 17:59:38 UTC] Carrito actualizado: [{"id":"55","idCompuesto":"55-3","nombre":"Nike Club","precio":850000,"cantidad":1,"foto":"m-nk-club-cargo-shortz.png","talla":"3","tallaTexto":"M"}]

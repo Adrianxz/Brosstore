@@ -1,0 +1,22 @@
+2025-05-07 00:46:47 - Received data: Array
+(
+    [id] => 48
+    [nombre] => Gorra Jordan
+    [precio] => 30000000
+    [cantidad] => 1
+    [foto] => hbr-structured-strapbackl.png
+)
+
+2025-05-07 00:46:47 - Current cart: Array
+(
+    [0] => Array
+        (
+            [id] => 48
+            [nombre] => Gorra Jordan
+            [precio] => 30000000
+            [cantidad] => 1
+            [foto] => hbr-structured-strapbackl.png
+        )
+
+)
+

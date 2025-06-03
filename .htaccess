@@ -1,0 +1,7 @@
+Header unset Cross-Origin-Opener-Policy
+Header unset Cross-Origin-Embedder-Policy
+
+RewriteEngine On
+RewriteBase /404/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]

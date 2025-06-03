@@ -1,0 +1,108 @@
+/* Estilos Generales */
+body {
+    background-color: #2C4926;
+    color: #B79F5E;
+    font-family: Arial, sans-serif;
+}
+
+/* Top Bar */
+.top-bar {
+    background-color: #444242;
+    color: #B79F5E;
+    padding: 10px 0;
+}
+
+.left-top-bar {
+    font-size: 14px;
+    color: #B79F5E;
+}
+
+.right-top-bar a {
+    color: #B79F5E;
+    transition: 0.3s;
+}
+
+.right-top-bar a:hover {
+    color: #b78732;
+}
+
+/* Navbar */
+.wrap-menu-desktop {
+    background-color: #2C4926;
+    border-bottom: 3px solid #b78732;
+}
+
+.menu-desktop ul.main-menu > li > a {
+    color: #B79F5E;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.menu-desktop ul.main-menu > li > a:hover {
+    color: #b78732;
+}
+
+/* Submenú */
+.sub-menu {
+    background-color: #444242;
+}
+
+.sub-menu li a {
+    color: #B79F5E;
+}
+
+.sub-menu li a:hover {
+    color: #b78732;
+}
+
+/* Iconos del Header */
+.icon-header-item {
+    color: #B79F5E;
+    transition: 0.3s;
+}
+
+.icon-header-item:hover {
+    color: #b78732;
+}
+
+/* Botón del menú móvil */
+.btn-show-menu-mobile {
+    background-color: #b78732;
+}
+
+/* Menú Móvil */
+.menu-mobile {
+    background-color: #2C4926;
+}
+
+.menu-mobile ul.main-menu-m > li > a {
+    color: #B79F5E;
+    font-weight: bold;
+}
+
+.menu-mobile ul.main-menu-m > li > a:hover {
+    color: #b78732;
+}
+
+/* Modal de búsqueda */
+.modal-search-header {
+    background-color: rgba(44, 73, 38, 0.9);
+}
+
+.modal-search-header input {
+    background-color: #444242;
+    color: #B79F5E;
+    border: 1px solid #b78732;
+}
+
+.modal-search-header input::placeholder {
+    color: #B79F5E;
+}
+
+.modal-search-header button {
+    color: #B79F5E;
+}
+
+.modal-search-header button:hover {
+    color: #b78732;
+}

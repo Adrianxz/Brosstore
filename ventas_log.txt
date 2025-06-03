@@ -1,0 +1,812 @@
+[2025-05-17 00:30:44] Iniciando registro de venta
+[2025-05-17 00:30:44] Cliente ID: 1, Total: 3420000
+[2025-05-17 00:30:44] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [idCompuesto] => 55-1
+            [nombre] => Nike Club
+            [precio] => 850000
+            [cantidad] => 1
+            [foto] => m-nk-club-cargo-shortz.png
+            [talla] => 1
+            [tallaTexto] => XS
+        )
+
+    [1] => Array
+        (
+            [id] => 55
+            [idCompuesto] => 55-2
+            [nombre] => Nike Club
+            [precio] => 850000
+            [cantidad] => 1
+            [foto] => m-nk-club-cargo-shortz.png
+            [talla] => 2
+            [tallaTexto] => S
+        )
+
+    [2] => Array
+        (
+            [id] => 4
+            [idCompuesto] => 4-2
+            [nombre] => Nike Tech
+            [precio] => 700000
+            [cantidad] => 3
+            [foto] => M+NK+TCH+FLC+FZ+WR+HOODIEn.png
+            [talla] => 2
+            [tallaTexto] => S
+        )
+
+)
+
+[2025-05-17 00:30:44] Venta insertada con ID: 7
+[2025-05-17 00:30:44] Procesando producto ID: 55, Talla: XS, Cantidad: 1
+[2025-05-17 00:30:44] ADVERTENCIA: No se actualizó el stock para Producto: 55, Talla: XS
+[2025-05-17 00:30:44] Procesando producto ID: 55, Talla: S, Cantidad: 1
+[2025-05-17 00:30:44] ADVERTENCIA: No se actualizó el stock para Producto: 55, Talla: S
+[2025-05-17 00:30:44] Procesando producto ID: 4, Talla: S, Cantidad: 3
+[2025-05-17 00:30:44] ADVERTENCIA: No se actualizó el stock para Producto: 4, Talla: S
+[2025-05-17 00:30:44] Cupón actualizado: AK47
+[2025-05-17 00:30:44] Transacción completada con éxito
+[2025-05-17 00:30:44] Venta registrada correctamente: ORD-6827d8b412c3b
+[2025-05-16 20:55:25] Iniciando registro de venta
+[2025-05-16 20:55:25] Cliente ID: 1, Total: 0
+[2025-05-16 20:55:25] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [idCompuesto] => 55-1
+            [nombre] => Nike Club
+            [precio] => 850000
+            [cantidad] => 3
+            [foto] => m-nk-club-cargo-shortz.png
+            [talla] => 1
+            [tallaTexto] => XS
+        )
+
+)
+
+[2025-05-16 20:55:25] Orden/ID Transacción Wompi: 1893465-1747446917-49782
+[2025-05-16 20:55:25] Venta insertada con ID: 8
+[2025-05-16 20:55:25] Procesando producto ID: 55, Talla: XS, Cantidad: 3
+[2025-05-16 20:55:25] Talla ID obtenido: 1 para texto: XS
+[2025-05-16 20:55:25] Stock actualizado correctamente
+[2025-05-16 20:55:25] Transacción completada con éxito
+[2025-05-16 20:55:25] Venta registrada correctamente: 1893465-1747446917-49782
+[2025-05-16 20:55:25] Venta registrada correctamente para la transacción 1893465-1747446917-49782
+[2025-05-16 21:03:31] Iniciando registro de venta
+[2025-05-16 21:03:31] Total calculado para la venta: 850000
+[2025-05-16 21:03:31] Cliente ID: 1, Total: 850000
+[2025-05-16 21:03:31] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [idCompuesto] => 55-1
+            [nombre] => Nike Club
+            [precio] => 850000
+            [cantidad] => 1
+            [foto] => m-nk-club-cargo-shortz.png
+            [talla] => 1
+            [tallaTexto] => XS
+        )
+
+)
+
+[2025-05-16 21:03:31] Orden/ID Transacción Wompi: 1893465-1747447387-22724
+[2025-05-16 21:03:31] Preparando para insertar total como entero: 850000
+[2025-05-16 21:03:31] Venta insertada con ID: 9
+[2025-05-16 21:03:31] Procesando producto ID: 55, Talla: XS, Cantidad: 1
+[2025-05-16 21:03:31] Talla ID obtenido: 1 para texto: XS
+[2025-05-16 21:03:31] Stock actualizado correctamente
+[2025-05-16 21:03:31] Transacción completada con éxito
+[2025-05-16 21:03:31] Venta registrada correctamente: 1893465-1747447387-22724
+[2025-05-16 21:03:31] Venta registrada correctamente para la transacción 1893465-1747447387-22724
+[2025-05-16 21:45:18] Iniciando registro de venta
+[2025-05-16 21:45:18] Total calculado para la venta: 850000
+[2025-05-16 21:45:18] Cliente ID: 1, Total: 850000
+[2025-05-16 21:45:18] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [idCompuesto] => 55-1
+            [nombre] => Nike Club
+            [precio] => 850000
+            [cantidad] => 1
+            [foto] => m-nk-club-cargo-shortz.png
+            [talla] => 1
+            [tallaTexto] => XS
+        )
+
+)
+
+[2025-05-16 21:45:18] Orden/ID Transacción Wompi: 1893465-1747449903-22767
+[2025-05-16 21:45:18] Preparando para insertar total como entero: 850000
+[2025-05-16 21:45:18] Venta insertada con ID: 10
+[2025-05-16 21:45:18] Procesando producto ID: 55, Talla: XS, Cantidad: 1
+[2025-05-16 21:45:18] Talla ID obtenido: 1 para texto: XS
+[2025-05-16 21:45:18] Stock actualizado correctamente
+[2025-05-16 21:45:18] Transacción completada con éxito
+[2025-05-16 21:45:18] Venta registrada correctamente: 1893465-1747449903-22767
+[2025-05-16 21:45:18] Venta registrada correctamente para la transacción 1893465-1747449903-22767
+[2025-05-16 23:18:41] Iniciando registro de venta
+[2025-05-16 23:18:41] Total calculado para la venta: 765000
+[2025-05-16 23:18:41] Cliente ID: 1, Total: 765000
+[2025-05-16 23:18:41] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [idCompuesto] => 55-1
+            [nombre] => Nike Club
+            [precio] => 850000
+            [cantidad] => 1
+            [foto] => m-nk-club-cargo-shortz.png
+            [talla] => 1
+            [tallaTexto] => XS
+        )
+
+)
+
+[2025-05-16 23:18:41] Orden/ID Transacción Wompi: 1893465-1747455510-56171
+[2025-05-16 23:18:41] Preparando para insertar total como entero: 765000
+[2025-05-16 23:18:41] Venta insertada con ID: 11
+[2025-05-16 23:18:41] Procesando producto ID: 55, Talla: XS, Cantidad: 1
+[2025-05-16 23:18:41] Talla ID obtenido: 1 para texto: XS
+[2025-05-16 23:18:41] Stock actualizado correctamente
+[2025-05-16 23:18:41] Cupón actualizado: AK47
+[2025-05-16 23:18:41] Transacción completada con éxito
+[2025-05-16 23:18:41] Venta registrada correctamente: 1893465-1747455510-56171
+[2025-05-16 23:18:41] Venta registrada correctamente para la transacción 1893465-1747455510-56171
+[2025-05-21 18:09:34] Iniciando registro de venta
+[2025-05-21 18:09:34] Total calculado para la venta: 850000
+[2025-05-21 18:09:34] Cliente ID: 1, Total: 850000
+[2025-05-21 18:09:34] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [idCompuesto] => 55-2
+            [nombre] => Nike Club
+            [precio] => 850000
+            [cantidad] => 1
+            [foto] => m-nk-club-cargo-shortz.png
+            [talla] => 2
+            [tallaTexto] => S
+        )
+
+)
+
+[2025-05-21 18:09:34] Orden/ID Transacción Wompi: 1893465-1747868967-61117
+[2025-05-21 18:09:34] Preparando para insertar total como entero: 850000
+[2025-05-21 18:09:34] Venta insertada con ID: 12
+[2025-05-21 18:09:34] Procesando producto ID: 55, Talla: S, Cantidad: 1
+[2025-05-21 18:09:34] Talla ID obtenido: 2 para texto: S
+[2025-05-21 18:09:34] Stock actualizado correctamente
+[2025-05-21 18:09:34] Transacción completada con éxito
+[2025-05-21 18:09:34] Iniciando envío de correos
+[2025-05-21 18:09:37] Correo enviado al cliente: adrian24cg@gmail.com
+[2025-05-21 18:09:41] Correo enviado al administrador
+[2025-05-21 18:09:41] Correos enviados exitosamente
+[2025-05-21 18:09:41] Venta registrada correctamente: 1893465-1747868967-61117
+[2025-05-21 18:09:41] Venta registrada correctamente para la transacción 1893465-1747868967-61117
+[2025-05-21 18:11:37] Iniciando registro de venta
+[2025-05-21 18:11:37] Total calculado para la venta: 1395000
+[2025-05-21 18:11:37] Cliente ID: 1, Total: 1395000
+[2025-05-21 18:11:37] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [idCompuesto] => 55-2
+            [nombre] => Nike Club
+            [precio] => 850000
+            [cantidad] => 1
+            [foto] => m-nk-club-cargo-shortz.png
+            [talla] => 2
+            [tallaTexto] => S
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [idCompuesto] => 4-2
+            [nombre] => Nike Tech
+            [precio] => 700000
+            [cantidad] => 1
+            [foto] => M+NK+TCH+FLC+FZ+WR+HOODIEn.png
+            [talla] => 2
+            [tallaTexto] => S
+        )
+
+)
+
+[2025-05-21 18:11:37] Orden/ID Transacción Wompi: 1893465-1747869085-23142
+[2025-05-21 18:11:37] Preparando para insertar total como entero: 1395000
+[2025-05-21 18:11:37] Venta insertada con ID: 13
+[2025-05-21 18:11:37] Procesando producto ID: 55, Talla: S, Cantidad: 1
+[2025-05-21 18:11:37] Talla ID obtenido: 2 para texto: S
+[2025-05-21 18:11:37] Stock actualizado correctamente
+[2025-05-21 18:11:37] Procesando producto ID: 4, Talla: S, Cantidad: 1
+[2025-05-21 18:11:37] Talla ID obtenido: 2 para texto: S
+[2025-05-21 18:11:37] Stock actualizado correctamente
+[2025-05-21 18:11:37] Cupón actualizado: AK47
+[2025-05-21 18:11:37] Transacción completada con éxito
+[2025-05-21 18:11:37] Iniciando envío de correos
+[2025-05-21 18:11:41] Correo enviado al cliente: adrian24cg@gmail.com
+[2025-05-21 18:11:45] Correo enviado al administrador
+[2025-05-21 18:11:45] Correos enviados exitosamente
+[2025-05-21 18:11:45] Venta registrada correctamente: 1893465-1747869085-23142
+[2025-05-21 18:11:45] Venta registrada correctamente para la transacción 1893465-1747869085-23142
+[2025-05-21 18:29:47] Iniciando registro de venta
+[2025-05-21 18:29:47] Total calculado para la venta: 1395000
+[2025-05-21 18:29:47] Cliente ID: 1, Total: 1395000
+[2025-05-21 18:29:47] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [idCompuesto] => 55-2
+            [nombre] => Nike Club
+            [precio] => 850000
+            [cantidad] => 1
+            [foto] => m-nk-club-cargo-shortz.png
+            [talla] => 2
+            [tallaTexto] => S
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [idCompuesto] => 4-2
+            [nombre] => Nike Tech
+            [precio] => 700000
+            [cantidad] => 1
+            [foto] => M+NK+TCH+FLC+FZ+WR+HOODIEn.png
+            [talla] => 2
+            [tallaTexto] => S
+        )
+
+)
+
+[2025-05-21 18:29:47] Orden/ID Transacción Wompi: 1893465-1747870178-12950
+[2025-05-21 18:29:47] Preparando para insertar total como entero: 1395000
+[2025-05-21 18:29:47] Venta insertada con ID: 14
+[2025-05-21 18:29:47] Procesando producto ID: 55, Talla: S, Cantidad: 1
+[2025-05-21 18:29:47] Talla ID obtenido: 2 para texto: S
+[2025-05-21 18:29:47] Stock actualizado correctamente
+[2025-05-21 18:29:47] Procesando producto ID: 4, Talla: S, Cantidad: 1
+[2025-05-21 18:29:47] Talla ID obtenido: 2 para texto: S
+[2025-05-21 18:29:47] Stock actualizado correctamente
+[2025-05-21 18:29:47] Cupón actualizado: AK47
+[2025-05-21 18:29:47] Transacción completada con éxito
+[2025-05-21 18:29:47] Iniciando envío de correos
+[2025-05-21 18:29:51] Correo enviado al cliente: adrian24cg@gmail.com
+[2025-05-21 18:29:55] Correo enviado al administrador
+[2025-05-21 18:29:55] Correos enviados exitosamente
+[2025-05-21 18:29:55] Venta registrada correctamente: 1893465-1747870178-12950
+[2025-05-21 18:29:55] Venta registrada correctamente para la transacción 1893465-1747870178-12950
+[2025-05-21 18:36:57] Iniciando registro de venta
+[2025-05-21 18:36:57] Total calculado para la venta: 1550000
+[2025-05-21 18:36:57] Cliente ID: 1, Total: 1550000
+[2025-05-21 18:36:57] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [idCompuesto] => 55-2
+            [nombre] => Nike Club
+            [precio] => 850000
+            [cantidad] => 1
+            [foto] => m-nk-club-cargo-shortz.png
+            [talla] => 2
+            [tallaTexto] => S
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [idCompuesto] => 4-2
+            [nombre] => Nike Tech
+            [precio] => 700000
+            [cantidad] => 1
+            [foto] => M+NK+TCH+FLC+FZ+WR+HOODIEn.png
+            [talla] => 2
+            [tallaTexto] => S
+        )
+
+)
+
+[2025-05-21 18:36:57] Orden/ID Transacción Wompi: 1893465-1747870609-60538
+[2025-05-21 18:36:57] Preparando para insertar total como entero: 1550000
+[2025-05-21 18:36:57] Venta insertada con ID: 15
+[2025-05-21 18:36:57] Procesando producto ID: 55, Talla: S, Cantidad: 1
+[2025-05-21 18:36:57] Talla ID obtenido: 2 para texto: S
+[2025-05-21 18:36:57] Stock actualizado correctamente
+[2025-05-21 18:36:57] Procesando producto ID: 4, Talla: S, Cantidad: 1
+[2025-05-21 18:36:57] Talla ID obtenido: 2 para texto: S
+[2025-05-21 18:36:57] Stock actualizado correctamente
+[2025-05-21 18:36:57] Transacción completada con éxito
+[2025-05-21 18:36:57] Iniciando envío de correos
+[2025-05-21 18:37:00] Correo enviado al cliente: adrian24cg@gmail.com
+[2025-05-21 18:37:04] Correo enviado al administrador
+[2025-05-21 18:37:04] Correos enviados exitosamente
+[2025-05-21 18:37:04] Venta registrada correctamente: 1893465-1747870609-60538
+[2025-05-21 18:37:04] Venta registrada correctamente para la transacción 1893465-1747870609-60538
+[2025-05-21 18:42:13] Iniciando registro de venta
+[2025-05-21 18:42:13] Total calculado para la venta: 765000
+[2025-05-21 18:42:13] Cliente ID: 1, Total: 765000
+[2025-05-21 18:42:13] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [idCompuesto] => 55-2
+            [nombre] => Nike Club
+            [precio] => 850000
+            [cantidad] => 1
+            [foto] => m-nk-club-cargo-shortz.png
+            [talla] => 2
+            [tallaTexto] => S
+        )
+
+)
+
+[2025-05-21 18:42:13] Orden/ID Transacción Wompi: 1893465-1747870923-62481
+[2025-05-21 18:42:13] Preparando para insertar total como entero: 765000
+[2025-05-21 18:42:13] Venta insertada con ID: 16
+[2025-05-21 18:42:13] Procesando producto ID: 55, Talla: S, Cantidad: 1
+[2025-05-21 18:42:13] Talla ID obtenido: 2 para texto: S
+[2025-05-21 18:42:13] Stock actualizado correctamente
+[2025-05-21 18:42:13] Cupón actualizado: AK47
+[2025-05-21 18:42:13] Transacción completada con éxito
+[2025-05-21 18:42:13] Iniciando envío de correos
+[2025-05-21 18:42:16] Correo enviado al cliente: adrian24cg@gmail.com
+[2025-05-21 18:42:20] Correo enviado al administrador
+[2025-05-21 18:42:20] Correos enviados exitosamente
+[2025-05-21 18:42:20] Venta registrada correctamente: 1893465-1747870923-62481
+[2025-05-21 18:42:20] Venta registrada correctamente para la transacción 1893465-1747870923-62481
+[2025-05-21 18:45:32] Iniciando registro de venta
+[2025-05-21 18:45:32] Total calculado para la venta: 1530000
+[2025-05-21 18:45:32] Cliente ID: 1, Total: 1530000
+[2025-05-21 18:45:32] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [idCompuesto] => 55-2
+            [nombre] => Nike Club
+            [precio] => 850000
+            [cantidad] => 2
+            [foto] => m-nk-club-cargo-shortz.png
+            [talla] => 2
+            [tallaTexto] => S
+        )
+
+)
+
+[2025-05-21 18:45:32] Orden/ID Transacción Wompi: 1893465-1747871124-45042
+[2025-05-21 18:45:32] Preparando para insertar total como entero: 1530000
+[2025-05-21 18:45:32] Venta insertada con ID: 17
+[2025-05-21 18:45:32] Procesando producto ID: 55, Talla: S, Cantidad: 2
+[2025-05-21 18:45:32] Talla ID obtenido: 2 para texto: S
+[2025-05-21 18:45:32] Stock actualizado correctamente
+[2025-05-21 18:45:32] Cupón actualizado: AK47
+[2025-05-21 18:45:32] Transacción completada con éxito
+[2025-05-21 18:45:32] Iniciando envío de correos
+[2025-05-21 18:45:35] Correo enviado al cliente: adrian24cg@gmail.com
+[2025-05-21 18:45:39] Correo enviado al administrador
+[2025-05-21 18:45:39] Correos enviados exitosamente
+[2025-05-21 18:45:39] Venta registrada correctamente: 1893465-1747871124-45042
+[2025-05-21 18:45:39] Venta registrada correctamente para la transacción 1893465-1747871124-45042
+[2025-05-21 18:53:45] Iniciando registro de venta
+[2025-05-21 18:53:45] Total calculado para la venta: 2520000
+[2025-05-21 18:53:45] Cliente ID: 1, Total: 2520000
+[2025-05-21 18:53:45] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 4
+            [idCompuesto] => 4-3
+            [nombre] => Nike Tech
+            [precio] => 700000
+            [cantidad] => 4
+            [foto] => M+NK+TCH+FLC+FZ+WR+HOODIEn.png
+            [talla] => 3
+            [tallaTexto] => M
+        )
+
+)
+
+[2025-05-21 18:53:45] Orden/ID Transacción Wompi: 1893465-1747871592-74313
+[2025-05-21 18:53:45] Preparando para insertar total como entero: 2520000
+[2025-05-21 18:53:45] Venta insertada con ID: 18
+[2025-05-21 18:53:45] Procesando producto ID: 4, Talla: M, Cantidad: 4
+[2025-05-21 18:53:45] Talla ID obtenido: 3 para texto: M
+[2025-05-21 18:53:45] Stock actualizado correctamente
+[2025-05-21 18:53:45] Cupón actualizado: AK47
+[2025-05-21 18:53:45] Transacción completada con éxito
+[2025-05-21 18:53:45] Iniciando envío de correos
+[2025-05-21 18:53:48] Correo enviado al cliente: adrian24cg@gmail.com
+[2025-05-21 18:53:51] Correo enviado al administrador
+[2025-05-21 18:53:51] Correos enviados exitosamente
+[2025-05-21 18:53:51] Venta registrada correctamente: 1893465-1747871592-74313
+[2025-05-21 18:53:51] Venta registrada correctamente para la transacción 1893465-1747871592-74313
+[2025-05-23 09:06:27] Iniciando registro de venta
+[2025-05-23 09:06:27] Total calculado para la venta: 4200000
+[2025-05-23 09:06:27] Cliente ID: 3, Total: 4200000
+[2025-05-23 09:06:27] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 4
+            [idCompuesto] => 4-3
+            [nombre] => Nike Tech
+            [precio] => 700000
+            [cantidad] => 2
+            [foto] => M+NK+TCH+FLC+FZ+WR+HOODIEn.png
+            [talla] => 3
+            [tallaTexto] => M
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [idCompuesto] => 4-2
+            [nombre] => Nike Tech
+            [precio] => 700000
+            [cantidad] => 10
+            [foto] => M+NK+TCH+FLC+FZ+WR+HOODIEn.png
+            [talla] => 2
+            [tallaTexto] => S
+        )
+
+)
+
+[2025-05-23 09:06:27] Orden/ID Transacción Wompi: 1893465-1748009159-41324
+[2025-05-23 09:06:27] Preparando para insertar total como entero: 4200000
+[2025-05-23 09:06:27] Venta insertada con ID: 19
+[2025-05-23 09:06:27] Procesando producto ID: 4, Talla: M, Cantidad: 2
+[2025-05-23 09:06:27] Talla ID obtenido: 3 para texto: M
+[2025-05-23 09:06:27] Stock actualizado correctamente
+[2025-05-23 09:06:27] Procesando producto ID: 4, Talla: S, Cantidad: 10
+[2025-05-23 09:06:27] Talla ID obtenido: 2 para texto: S
+[2025-05-23 09:06:27] Stock actualizado correctamente
+[2025-05-23 09:06:27] Cupón actualizado: AK47
+[2025-05-23 09:06:27] Transacción completada con éxito
+[2025-05-23 09:06:27] Iniciando envío de correos
+[2025-05-23 09:06:31] Correo enviado al cliente: jernyalejo1005@gmail.com
+[2025-05-23 09:06:35] Correo enviado al administrador
+[2025-05-23 09:06:35] Correos enviados exitosamente
+[2025-05-23 09:06:35] Venta registrada correctamente: 1893465-1748009159-41324
+[2025-05-23 09:06:35] Venta registrada correctamente para la transacción 1893465-1748009159-41324
+[2025-05-25 03:35:43] Iniciando registro de venta
+[2025-05-25 03:35:43] Total calculado para la venta: 425000
+[2025-05-25 03:35:43] Cliente ID: 1, Total: 425000
+[2025-05-25 03:35:43] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [idCompuesto] => 55-1
+            [nombre] => Nike Club
+            [precio] => 850000
+            [cantidad] => 1
+            [foto] => m-nk-club-cargo-shortz.png
+            [talla] => 1
+            [tallaTexto] => XS
+        )
+
+)
+
+[2025-05-25 03:35:43] Orden/ID Transacción Wompi: 1893465-1748162135-84142
+[2025-05-25 03:35:43] Preparando para insertar total como entero: 425000
+[2025-05-25 03:35:43] Venta insertada con ID: 20
+[2025-05-25 03:35:43] Procesando producto ID: 55, Talla: XS, Cantidad: 1
+[2025-05-25 03:35:43] Talla ID obtenido: 1 para texto: XS
+[2025-05-25 03:35:43] Stock actualizado correctamente
+[2025-05-25 03:35:43] Cupón actualizado: AK47
+[2025-05-25 03:35:43] Transacción completada con éxito
+[2025-05-25 03:35:43] Iniciando envío de correos
+[2025-05-25 03:35:47] Correo enviado al cliente: adrian24cg@gmail.com
+[2025-05-25 03:35:50] Correo enviado al administrador
+[2025-05-25 03:35:50] Correos enviados exitosamente
+[2025-05-25 03:35:50] Venta registrada correctamente: 1893465-1748162135-84142
+[2025-05-25 03:35:50] Venta registrada correctamente para la transacción 1893465-1748162135-84142
+[2025-05-25 03:39:19] Iniciando registro de venta
+[2025-05-25 03:39:19] Total calculado para la venta: 3925000
+[2025-05-25 03:39:19] Cliente ID: 1, Total: 3925000
+[2025-05-25 03:39:19] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [idCompuesto] => 55-1
+            [nombre] => Nike Club
+            [precio] => 850000
+            [cantidad] => 1
+            [foto] => m-nk-club-cargo-shortz.png
+            [talla] => 1
+            [tallaTexto] => XS
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [idCompuesto] => 4-2
+            [nombre] => Nike Tech
+            [precio] => 700000
+            [cantidad] => 10
+            [foto] => M+NK+TCH+FLC+FZ+WR+HOODIEn.png
+            [talla] => 2
+            [tallaTexto] => S
+        )
+
+)
+
+[2025-05-25 03:39:19] Orden/ID Transacción Wompi: 1893465-1748162350-23773
+[2025-05-25 03:39:19] Preparando para insertar total como entero: 3925000
+[2025-05-25 03:39:19] Venta insertada con ID: 21
+[2025-05-25 03:39:19] Procesando producto ID: 55, Talla: XS, Cantidad: 1
+[2025-05-25 03:39:19] Talla ID obtenido: 1 para texto: XS
+[2025-05-25 03:39:19] Stock actualizado correctamente
+[2025-05-25 03:39:19] Procesando producto ID: 4, Talla: S, Cantidad: 10
+[2025-05-25 03:39:19] Talla ID obtenido: 2 para texto: S
+[2025-05-25 03:39:19] Stock actualizado correctamente
+[2025-05-25 03:39:19] Cupón actualizado: AK47
+[2025-05-25 03:39:19] Transacción completada con éxito
+[2025-05-25 03:39:19] Iniciando envío de correos
+[2025-05-25 03:39:22] Correo enviado al cliente: adrian24cg@gmail.com
+[2025-05-25 03:39:26] Correo enviado al administrador
+[2025-05-25 03:39:26] Correos enviados exitosamente
+[2025-05-25 03:39:26] Venta registrada correctamente: 1893465-1748162350-23773
+[2025-05-25 03:39:26] Venta registrada correctamente para la transacción 1893465-1748162350-23773
+[2025-05-26 21:48:01] Iniciando registro de venta
+[2025-05-26 21:48:01] Total calculado para la venta: 5900000
+[2025-05-26 21:48:01] Cliente ID: 1, Total: 5900000
+[2025-05-26 21:48:01] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [idCompuesto] => 55-1
+            [nombre] => Nike Club
+            [precio] => 850000
+            [cantidad] => 2
+            [foto] => m-nk-club-cargo-shortz.png
+            [talla] => 1
+            [tallaTexto] => XS
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [idCompuesto] => 4-2
+            [nombre] => Nike Tech
+            [precio] => 700000
+            [cantidad] => 6
+            [foto] => M+NK+TCH+FLC+FZ+WR+HOODIEn.png
+            [talla] => 2
+            [tallaTexto] => S
+        )
+
+)
+
+[2025-05-26 21:48:01] Orden/ID Transacción Wompi: 1893465-1748314069-56066
+[2025-05-26 21:48:01] Preparando para insertar total como entero: 5900000
+[2025-05-26 21:48:01] Venta insertada con ID: 22
+[2025-05-26 21:48:01] Procesando producto ID: 55, Talla: XS, Cantidad: 2
+[2025-05-26 21:48:01] Talla ID obtenido: 1 para texto: XS
+[2025-05-26 21:49:18] Iniciando registro de venta
+[2025-05-26 21:49:18] Total calculado para la venta: 5900000
+[2025-05-26 21:49:18] Cliente ID: 1, Total: 5900000
+[2025-05-26 21:49:18] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [idCompuesto] => 55-1
+            [nombre] => Nike Club
+            [precio] => 850000
+            [cantidad] => 2
+            [foto] => m-nk-club-cargo-shortz.png
+            [talla] => 1
+            [tallaTexto] => XS
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [idCompuesto] => 4-2
+            [nombre] => Nike Tech
+            [precio] => 700000
+            [cantidad] => 6
+            [foto] => M+NK+TCH+FLC+FZ+WR+HOODIEn.png
+            [talla] => 2
+            [tallaTexto] => S
+        )
+
+)
+
+[2025-05-26 21:49:18] Orden/ID Transacción Wompi: 1893465-1748314069-56066
+[2025-05-26 21:49:18] Preparando para insertar total como entero: 5900000
+[2025-05-26 21:49:18] Venta insertada con ID: 23
+[2025-05-26 21:49:18] Procesando producto ID: 55, Talla: XS, Cantidad: 2
+[2025-05-26 21:49:18] Talla ID obtenido: 1 para texto: XS
+[2025-05-26 21:49:18] Stock actualizado correctamente
+[2025-05-26 21:49:18] Procesando producto ID: 4, Talla: S, Cantidad: 6
+[2025-05-26 21:49:18] Talla ID obtenido: 2 para texto: S
+[2025-05-26 21:49:18] Stock actualizado correctamente
+[2025-05-26 21:49:18] Transacción completada con éxito
+[2025-05-26 21:49:18] Iniciando envío de correos
+[2025-05-26 21:49:23] Correo enviado al cliente: adrian24cg@gmail.com
+[2025-05-26 21:49:27] Correo enviado al administrador
+[2025-05-26 21:49:27] Correos enviados exitosamente
+[2025-05-26 21:49:27] Venta registrada correctamente: 1893465-1748314069-56066
+[2025-05-26 21:49:27] Venta registrada correctamente para la transacción 1893465-1748314069-56066
+[2025-05-26 22:24:37] Iniciando registro de venta
+[2025-05-26 22:24:37] Total calculado para la venta: 700000
+[2025-05-26 22:24:37] Cliente ID: 1, Total: 700000
+[2025-05-26 22:24:37] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 4
+            [idCompuesto] => 4-2
+            [nombre] => Nike Tech
+            [precio] => 700000
+            [cantidad] => 1
+            [foto] => M+NK+TCH+FLC+FZ+WR+HOODIEn.png
+            [talla] => 2
+            [tallaTexto] => S
+        )
+
+)
+
+[2025-05-26 22:24:37] Orden/ID Transacción Wompi: 1893465-1748316260-71675
+[2025-05-26 22:24:37] Preparando para insertar total como entero: 700000
+[2025-05-26 22:24:37] Venta insertada con ID: 24
+[2025-05-26 22:24:37] Procesando producto ID: 4, Talla: S, Cantidad: 1
+[2025-05-26 22:24:37] Talla ID obtenido: 2 para texto: S
+[2025-05-26 22:24:37] Stock actualizado correctamente
+[2025-05-26 22:24:37] Transacción completada con éxito
+[2025-05-26 22:24:37] Iniciando envío de correos
+[2025-05-26 22:24:41] Correo enviado al cliente: adrian24cg@gmail.com
+[2025-05-26 22:24:44] Correo enviado al administrador
+[2025-05-26 22:24:44] Correos enviados exitosamente
+[2025-05-26 22:24:44] Venta registrada correctamente: 1893465-1748316260-71675
+[2025-05-26 22:24:44] Venta registrada correctamente para la transacción 1893465-1748316260-71675
+[2025-05-27 08:21:33] Iniciando registro de venta
+[2025-05-27 08:21:33] Total calculado para la venta: 1700000
+[2025-05-27 08:21:33] Cliente ID: 1, Total: 1700000
+[2025-05-27 08:21:33] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [idCompuesto] => 55-2
+            [nombre] => Nike Club
+            [precio] => 850000
+            [cantidad] => 2
+            [foto] => m-nk-club-cargo-shortz.png
+            [talla] => 2
+            [tallaTexto] => S
+        )
+
+)
+
+[2025-05-27 08:21:33] Orden/ID Transacción Wompi: 1893465-1748350370-16025
+[2025-05-27 08:21:33] Preparando para insertar total como entero: 1700000
+[2025-05-27 08:21:33] Venta insertada con ID: 25
+[2025-05-27 08:21:33] Procesando producto ID: 55, Talla: S, Cantidad: 2
+[2025-05-27 08:21:33] Talla ID obtenido: 2 para texto: S
+[2025-05-27 08:21:33] Stock actualizado correctamente
+[2025-05-27 08:21:33] Transacción completada con éxito
+[2025-05-27 08:21:33] Iniciando envío de correos
+[2025-05-27 08:21:36] Correo enviado al cliente: adrian24cg@gmail.com
+[2025-05-27 08:21:39] Correo enviado al administrador
+[2025-05-27 08:21:39] Correos enviados exitosamente
+[2025-05-27 08:21:39] Venta registrada correctamente: 1893465-1748350370-16025
+[2025-05-27 08:21:39] Venta registrada correctamente para la transacción 1893465-1748350370-16025
+[2025-05-27 08:25:42] Iniciando registro de venta
+[2025-05-27 08:25:42] Total calculado para la venta: 350000
+[2025-05-27 08:25:42] Cliente ID: 1, Total: 350000
+[2025-05-27 08:25:42] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 4
+            [idCompuesto] => 4-3
+            [nombre] => Nike Tech
+            [precio] => 700000
+            [cantidad] => 1
+            [foto] => M+NK+TCH+FLC+FZ+WR+HOODIEn.png
+            [talla] => 3
+            [tallaTexto] => M
+        )
+
+)
+
+[2025-05-27 08:25:42] Orden/ID Transacción Wompi: 1893465-1748352331-20853
+[2025-05-27 08:25:42] Preparando para insertar total como entero: 350000
+[2025-05-27 08:25:42] Venta insertada con ID: 26
+[2025-05-27 08:25:42] Procesando producto ID: 4, Talla: M, Cantidad: 1
+[2025-05-27 08:25:42] Talla ID obtenido: 3 para texto: M
+[2025-05-27 08:25:42] Stock actualizado correctamente
+[2025-05-27 08:25:42] Cupón actualizado: AK47
+[2025-05-27 08:25:42] Transacción completada con éxito
+[2025-05-27 08:25:42] Iniciando envío de correos
+[2025-05-27 08:25:45] Correo enviado al cliente: adrian24cg@gmail.com
+[2025-05-27 08:25:49] Correo enviado al administrador
+[2025-05-27 08:25:49] Correos enviados exitosamente
+[2025-05-27 08:25:49] Venta registrada correctamente: 1893465-1748352331-20853
+[2025-05-27 08:25:49] Venta registrada correctamente para la transacción 1893465-1748352331-20853
+[2025-06-02 15:38:29] Iniciando registro de venta
+[2025-06-02 15:38:29] Total calculado para la venta: 2550000
+[2025-06-02 15:38:29] Cliente ID: 4, Total: 2550000
+[2025-06-02 15:38:29] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [idCompuesto] => 55-2
+            [nombre] => Nike Club
+            [precio] => 850000
+            [cantidad] => 6
+            [foto] => m-nk-club-cargo-shortz.png
+            [talla] => 2
+            [tallaTexto] => S
+        )
+
+)
+
+[2025-06-02 15:38:29] Orden/ID Transacción Wompi: 1893465-1748896692-88525
+[2025-06-02 15:38:29] Preparando para insertar total como entero: 2550000
+[2025-06-02 15:38:29] Venta insertada con ID: 40
+[2025-06-02 15:38:29] Procesando producto ID: 55, Talla: S, Cantidad: 6
+[2025-06-02 15:38:29] Talla ID obtenido: 2 para texto: S
+[2025-06-02 15:38:29] Stock actualizado correctamente
+[2025-06-02 15:38:29] Cupón actualizado: AK47
+[2025-06-02 15:38:29] Transacción completada con éxito
+[2025-06-02 15:38:29] Iniciando envío de correos
+[2025-06-02 15:38:32] Correo enviado al cliente: luchoarango2014@gmail.com
+[2025-06-02 15:38:35] Correo enviado al administrador
+[2025-06-02 15:38:35] Correos enviados exitosamente
+[2025-06-02 15:38:35] Venta registrada correctamente: 1893465-1748896692-88525
+[2025-06-02 15:38:35] Venta registrada correctamente para la transacción 1893465-1748896692-88525
+[2025-06-02 21:30:57] Iniciando registro de venta
+[2025-06-02 21:30:57] Total calculado para la venta: 425000
+[2025-06-02 21:30:57] Cliente ID: 1, Total: 425000
+[2025-06-02 21:30:57] Carrito: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [idCompuesto] => 55-3
+            [nombre] => Nike Club
+            [precio] => 850000
+            [cantidad] => 1
+            [foto] => m-nk-club-cargo-shortz.png
+            [talla] => 3
+            [tallaTexto] => M
+        )
+
+)
+
+[2025-06-02 21:30:57] Orden/ID Transacción Wompi: 1893465-1748917850-98877
+[2025-06-02 21:30:57] Preparando para insertar total como entero: 425000
+[2025-06-02 21:30:57] Venta insertada con ID: 41
+[2025-06-02 21:30:57] Procesando producto ID: 55, Talla: M, Cantidad: 1
+[2025-06-02 21:30:57] Talla ID obtenido: 3 para texto: M
+[2025-06-02 21:30:57] Stock actualizado correctamente
+[2025-06-02 21:30:57] Cupón actualizado: AK47
+[2025-06-02 21:30:57] Transacción completada con éxito
+[2025-06-02 21:30:57] Iniciando envío de correos
+[2025-06-02 21:31:01] Correo enviado al cliente: adrian24cg@gmail.com
+[2025-06-02 21:31:04] Correo enviado al administrador
+[2025-06-02 21:31:04] Correos enviados exitosamente
+[2025-06-02 21:31:04] Venta registrada correctamente: 1893465-1748917850-98877
+[2025-06-02 21:31:04] Venta registrada correctamente para la transacción 1893465-1748917850-98877

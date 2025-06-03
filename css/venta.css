@@ -1,0 +1,643 @@
+    /* Estilos responsive personalizados */
+body {
+    font-size: 14px;
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container-fluid {
+    padding: 10px;
+}
+
+
+/* Agrega estos estilos adicionales a tu CSS existente */
+
+/* Estilos para los botones de vista */
+#tableViewTab.active,
+#cardViewTab.active {
+  background-color: #0d6efd !important;
+  border-color: #0d6efd !important;
+  color: white !important;
+}
+
+/* Mejoras para las tarjetas */
+#productCardView .card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border: 1px solid #e9ecef !important;
+}
+
+#productCardView .card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+}
+
+/* Responsive para las tarjetas */
+@media (max-width: 768px) {
+  #productCardView .col-md-6 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+  #productCardView .col-lg-4 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+
+
+@media (min-width: 768px) {
+    .container-fluid {
+        padding: 20px;
+    }
+}
+
+/* Header responsive */
+.page-header {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+    padding: 15px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+@media (min-width: 576px) {
+    .page-header {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+.page-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 0;
+    color: #2c3e50;
+}
+
+@media (max-width: 575px) {
+    .page-title {
+        font-size: 1.25rem;
+        text-align: center;
+    }
+}
+
+/* Botones responsive */
+.btn-responsive {
+    padding: 8px 12px;
+    font-size: 0.875rem;
+    white-space: nowrap;
+}
+
+@media (max-width: 575px) {
+    .btn-responsive {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+}
+
+/* Tabla responsive mejorada */
+.table-responsive-custom {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    overflow: hidden;
+}
+
+.table {
+    margin-bottom: 0;
+}
+
+.table th {
+    background-color: #6c757d;
+    color: white;
+    font-weight: 600;
+    border: none;
+    padding: 12px 8px;
+    font-size: 0.875rem;
+}
+
+.table td {
+    padding: 10px 8px;
+    vertical-align: middle;
+    border-top: 1px solid #dee2e6;
+}
+
+/* Botones de acción responsive */
+.action-buttons {
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
+@media (max-width: 575px) {
+    .action-buttons {
+        flex-direction: column;
+    }
+    
+    .action-buttons .btn {
+        width: 100%;
+        margin-bottom: 2px;
+    }
+}
+
+.btn-sm-responsive {
+    padding: 4px 8px;
+    font-size: 0.75rem;
+}
+
+@media (max-width: 575px) {
+    .btn-sm-responsive {
+        padding: 8px 12px;
+        font-size: 0.875rem;
+    }
+}
+
+/* Modal responsive */
+@media (max-width: 575px) {
+    .modal-dialog {
+        margin: 10px;
+        max-width: calc(100% - 20px);
+    }
+    
+    .modal-lg, .modal-xl {
+        max-width: calc(100% - 20px);
+    }
+}
+
+.modal-header {
+    background-color: #007bff;
+    color: white;
+    border-radius: 0;
+}
+
+.modal-header .btn-close {
+    filter: invert(1);
+}
+
+/* Formulario responsive */
+.form-section {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.form-section-title {
+    font-weight: 600;
+    color: #495057;
+    margin-bottom: 15px;
+    font-size: 1rem;
+}
+
+/* Cards para productos en móvil */
+.product-card {
+    background: white;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border: 1px solid #dee2e6;
+}
+
+.product-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.product-card-image {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.product-card-info {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.product-card-name {
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: #2c3e50;
+}
+
+.product-card-price {
+    color: #28a745;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+/* Badge responsive */
+.badge {
+    font-size: 0.75rem;
+    padding: 0.375em 0.5em;
+}
+
+@media (max-width: 575px) {
+    .badge {
+        font-size: 0.875rem;
+        padding: 0.5em 0.75em;
+    }
+}
+
+/* Loading spinner */
+.loading-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.spinner {
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #007bff;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Totales responsive */
+.total-section {
+    background: linear-gradient(135deg, #007bff, #0056b3);
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+@media (max-width: 575px) {
+    .total-section {
+        font-size: 1rem;
+        padding: 12px;
+    }
+}
+
+/* Mejoras visuales */
+.card-shadow {
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+.card-shadow:hover {
+    box-shadow: 0 8px 15px rgba(0,0,0,0.2);
+}
+
+/* Inputs responsive */
+@media (max-width: 575px) {
+    .form-control {
+        font-size: 16px; /* Evita zoom en iOS */
+    }
+}
+
+/* DataTables responsive customization */
+@media (max-width: 767px) {
+    .dataTables_wrapper .dataTables_length,
+    .dataTables_wrapper .dataTables_filter {
+        text-align: center !important;
+        margin-bottom: 10px;
+    }
+    
+    .dataTables_wrapper .dataTables_info,
+    .dataTables_wrapper .dataTables_paginate {
+        text-align: center !important;
+        margin-top: 10px;
+    }
+}
+
+/* Animaciones */
+.fade-in {
+    animation: fadeIn 0.3s ease-in;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* Estados de botones */
+.btn:hover {
+    transform: translateY(-1px);
+    transition: all 0.2s ease;
+}
+
+.btn:active {
+    transform: translateY(0);
+}
+
+/* Responsive utilities */
+@media (max-width: 575px) {
+    .mb-xs-2 { margin-bottom: 0.5rem !important; }
+    .mb-xs-3 { margin-bottom: 1rem !important; }
+    .mt-xs-2 { margin-top: 0.5rem !important; }
+    .p-xs-2 { padding: 0.5rem !important; }
+}
+
+/* Scrollbar personalizado */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+
+    
+        /* Estilos para las tarjetas de productos */
+.product-card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px;
+  padding: 16px;
+}
+
+.product-card {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background-color: #fff;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.product-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.product-card-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.product-card-title {
+  font-weight: 600;
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+.product-card-price {
+  color: #28a745;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.product-card-image {
+  width: 100%;
+  height: 120px;
+  object-fit: contain;
+  margin-bottom: 12px;
+}
+
+.product-card-button {
+  margin-top: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.view-tabs {
+  display: flex;
+  border-bottom: 1px solid #dee2e6;
+  margin-bottom: 16px;
+}
+
+.view-tab {
+  padding: 8px 16px;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 4px 4px 0 0;
+  margin-right: 4px;
+  background-color: #f8f9fa;
+}
+
+.view-tab.active {
+  border: 1px solid #dee2e6;
+  border-bottom-color: #fff;
+  background-color: #fff;
+}
+
+/* Agrega estos estilos para asegurar que las tarjetas se vean correctamente */
+#cardViewContainer {
+  min-height: 400px;
+}
+
+#cardViewContainer .card {
+  transition: transform 0.2s ease;
+  min-height: 250px;
+}
+
+#cardViewContainer .card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#cardViewContainer .card-header {
+  padding: 1rem;
+  border-bottom: 1px solid #dee2e6;
+}
+
+#cardViewContainer .card-body {
+  padding: 1rem;
+}
+
+#cardViewContainer .card-title {
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  height: 2.4rem;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+/* Asegurar que los contenedores no tengan conflictos */
+#tableViewContainer,
+#cardViewContainer {
+  width: 100%;
+  clear: both;
+}
+
+/* Responsive para las tarjetas */
+@media (max-width: 576px) {
+  #cardViewContainer .col-12 {
+    margin-bottom: 1rem;
+  }
+}
+
+/* Estilos específicos para el modal de tallas */
+.modal-content {
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.modal-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-radius: 15px 15px 0 0;
+  padding: 20px;
+}
+
+.modal-header .btn-close {
+  filter: invert(1);
+}
+
+.modal-body {
+  padding: 25px;
+}
+
+.product-info,
+.product-selection-info {
+  border-left: 4px solid #007bff;
+}
+
+/* Estilos para los botones de talla */
+.btnSeleccionarTalla {
+  transition: all 0.3s ease;
+  border: 2px solid #dee2e6;
+  position: relative;
+  overflow: hidden;
+}
+
+.btnSeleccionarTalla:not(:disabled):hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 123, 255, 0.3);
+  border-color: #007bff;
+}
+
+.btnSeleccionarTalla:disabled {
+  background-color: #f8f9fa;
+  border-color: #e9ecef;
+  opacity: 0.6;
+}
+
+.btnSeleccionarTalla .badge {
+  font-size: 0.7rem;
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+/* Estilos para controles de cantidad */
+.quantity-controls input {
+  font-size: 1.2rem;
+  height: 50px;
+  border: 2px solid #dee2e6;
+}
+
+.quantity-controls button {
+  height: 50px;
+  border: 2px solid #dee2e6;
+}
+
+.quantity-controls button:hover {
+  background-color: #007bff;
+  border-color: #007bff;
+  color: white;
+}
+
+/* Estilos para alertas de stock */
+.stock-info .alert {
+  border: none;
+  border-radius: 10px;
+}
+
+.alert-success {
+  background: linear-gradient(135deg, #d4edda 0%, #c3e6cb 100%);
+  color: #155724;
+}
+
+.alert-warning {
+  background: linear-gradient(135deg, #fff3cd 0%, #ffeaa7 100%);
+  color: #856404;
+}
+
+.alert-danger {
+  background: linear-gradient(135deg, #f8d7da 0%, #f5c6cb 100%);
+  color: #721c24;
+}
+
+/* Animaciones */
+.fade-in {
+  animation: fadeIn 0.5s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive */
+@media (max-width: 576px) {
+  .modal-dialog {
+    margin: 10px;
+  }
+
+  .modal-body {
+    padding: 20px;
+  }
+
+  .btnSeleccionarTalla {
+    min-height: 60px;
+    font-size: 0.9rem;
+  }
+}

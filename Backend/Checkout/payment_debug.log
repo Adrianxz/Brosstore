@@ -1,0 +1,124 @@
+[2025-05-13 15:02:27] Dlocal.php: Request recibido - Método: POST
+[2025-05-13 15:02:27] Datos GET: []
+[2025-05-13 15:02:27] Datos POST: {"total":"850000","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-13 15:02:27] Error: Estado de pago inválido o no confirmado
+[2025-05-13 15:04:05] Dlocal.php: Request recibido - Método: POST
+[2025-05-13 15:04:05] Datos GET: []
+[2025-05-13 15:04:05] Datos POST: {"total":"850000","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-13 15:04:05] Error: Estado de pago inválido o no confirmado
+[2025-05-14 07:51:53] Dlocal.php: Request recibido - Método: POST
+[2025-05-14 07:51:53] Datos GET: []
+[2025-05-14 07:51:53] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-14 07:51:53] Error: Estado de pago inválido o no confirmado
+[2025-05-14 07:51:53] Dlocal.php: Request recibido - Método: POST
+[2025-05-14 07:51:53] Datos GET: []
+[2025-05-14 07:51:53] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-14 07:51:53] Error: Estado de pago inválido o no confirmado
+[2025-05-14 07:52:48] Dlocal.php: Request recibido - Método: POST
+[2025-05-14 07:52:48] Datos GET: []
+[2025-05-14 07:52:48] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-14 07:52:48] Error: Estado de pago inválido o no confirmado
+[2025-05-14 07:52:48] Dlocal.php: Request recibido - Método: POST
+[2025-05-14 07:52:48] Datos GET: []
+[2025-05-14 07:52:48] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-14 07:52:48] Error: Estado de pago inválido o no confirmado
+[2025-05-14 07:52:53] Dlocal.php: Request recibido - Método: POST
+[2025-05-14 07:52:53] Datos GET: []
+[2025-05-14 07:52:53] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-14 07:52:53] Error: Estado de pago inválido o no confirmado
+[2025-05-14 07:52:53] Dlocal.php: Request recibido - Método: POST
+[2025-05-14 07:52:53] Datos GET: []
+[2025-05-14 07:52:53] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-14 07:52:53] Error: Estado de pago inválido o no confirmado
+[2025-05-14 07:53:43] Dlocal.php: Request recibido - Método: POST
+[2025-05-14 07:53:43] Datos GET: []
+[2025-05-14 07:53:43] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-14 07:53:43] Error: Estado de pago inválido o no confirmado
+[2025-05-14 07:53:43] Dlocal.php: Request recibido - Método: POST
+[2025-05-14 07:53:43] Datos GET: []
+[2025-05-14 07:53:43] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-14 07:53:43] Error: Estado de pago inválido o no confirmado
+[2025-05-14 07:54:09] Dlocal.php: Request recibido - Método: POST
+[2025-05-14 07:54:09] Datos GET: []
+[2025-05-14 07:54:09] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-14 07:54:09] Error: Estado de pago inválido o no confirmado
+[2025-05-14 07:54:09] Dlocal.php: Request recibido - Método: POST
+[2025-05-14 07:54:09] Datos GET: []
+[2025-05-14 07:54:09] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-14 07:54:09] Error: Estado de pago inválido o no confirmado
+[2025-05-14 07:55:14] Dlocal.php: Request recibido - Método: POST
+[2025-05-14 07:55:14] Datos GET: []
+[2025-05-14 07:55:14] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-14 07:55:14] Error: Estado de pago inválido o no confirmado
+[2025-05-14 07:55:14] Dlocal.php: Request recibido - Método: POST
+[2025-05-14 07:55:14] Datos GET: []
+[2025-05-14 07:55:14] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-14 07:55:14] Error: Estado de pago inválido o no confirmado
+[2025-05-14 07:56:12] Dlocal.php: Request recibido - Método: POST
+[2025-05-14 07:56:12] Datos GET: []
+[2025-05-14 07:56:12] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-14 07:56:12] Error: Estado de pago inválido o no confirmado
+[2025-05-14 07:56:49] Dlocal.php: Request recibido - Método: POST
+[2025-05-14 07:56:49] Datos GET: []
+[2025-05-14 07:56:49] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-14 07:56:49] Error: Estado de pago inválido o no confirmado
+[2025-05-14 07:57:26] Dlocal.php: Request recibido - Método: POST
+[2025-05-14 07:57:26] Datos GET: []
+[2025-05-14 07:57:26] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-14 07:57:26] Error: Estado de pago inválido o no confirmado
+[2025-05-14 07:57:26] Dlocal.php: Request recibido - Método: POST
+[2025-05-14 07:57:26] Datos GET: []
+[2025-05-14 07:57:26] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-14 07:57:26] Error: Estado de pago inválido o no confirmado
+[2025-05-15 01:09:20] Dlocal.php: Request recibido - Método: POST
+[2025-05-15 01:09:20] Datos GET: []
+[2025-05-15 01:09:20] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-15 01:09:20] Error: Estado de pago inválido o no confirmado
+[2025-05-15 01:09:20] Dlocal.php: Request recibido - Método: POST
+[2025-05-15 01:09:20] Datos GET: []
+[2025-05-15 01:09:20] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-15 01:09:20] Error: Estado de pago inválido o no confirmado
+[2025-05-15 01:11:00] Dlocal.php: Request recibido - Método: POST
+[2025-05-15 01:11:00] Datos GET: []
+[2025-05-15 01:11:00] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-15 01:11:00] Error: Estado de pago inválido o no confirmado
+[2025-05-15 01:12:18] Dlocal.php: Request recibido - Método: POST
+[2025-05-15 01:12:18] Datos GET: []
+[2025-05-15 01:12:18] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-15 01:12:18] Error: Estado de pago inválido o no confirmado
+[2025-05-15 01:13:30] Dlocal.php: Request recibido - Método: POST
+[2025-05-15 01:13:30] Datos GET: []
+[2025-05-15 01:13:30] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-15 01:13:30] Error: Estado de pago inválido o no confirmado
+[2025-05-15 01:13:34] Dlocal.php: Request recibido - Método: POST
+[2025-05-15 01:13:34] Datos GET: []
+[2025-05-15 01:13:34] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-15 01:13:34] Error: Estado de pago inválido o no confirmado
+[2025-05-15 01:15:56] Dlocal.php: Request recibido - Método: GET
+[2025-05-15 01:15:56] Datos GET: []
+[2025-05-15 01:15:56] Datos POST: []
+[2025-05-15 01:15:56] Error: Estado de pago inválido o no confirmado
+[2025-05-15 01:16:38] Dlocal.php: Request recibido - Método: POST
+[2025-05-15 01:16:38] Datos GET: []
+[2025-05-15 01:16:38] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-15 01:16:38] Error: Estado de pago inválido o no confirmado
+[2025-05-15 01:17:42] Dlocal.php: Request recibido - Método: POST
+[2025-05-15 01:17:42] Datos GET: []
+[2025-05-15 01:17:42] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-15 01:17:42] Error: Estado de pago inválido o no confirmado
+[2025-05-15 01:18:21] Dlocal.php: Request recibido - Método: GET
+[2025-05-15 01:18:21] Datos GET: []
+[2025-05-15 01:18:21] Datos POST: []
+[2025-05-15 01:18:21] Error: Estado de pago inválido o no confirmado
+[2025-05-15 01:19:01] Dlocal.php: Request recibido - Método: POST
+[2025-05-15 01:19:01] Datos GET: []
+[2025-05-15 01:19:01] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-15 01:19:01] Error: Estado de pago inválido o no confirmado
+[2025-05-15 01:19:05] Dlocal.php: Request recibido - Método: POST
+[2025-05-15 01:19:05] Datos GET: []
+[2025-05-15 01:19:05] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-15 01:19:05] Error: Estado de pago inválido o no confirmado
+[2025-05-15 01:20:06] Dlocal.php: Request recibido - Método: POST
+[2025-05-15 01:20:06] Datos GET: []
+[2025-05-15 01:20:06] Datos POST: {"total":"850","nombre":"Adrian","email":"adrian24cg@gmail.com","moneda":"COP"}
+[2025-05-15 01:20:06] Error: Estado de pago inválido o no confirmado

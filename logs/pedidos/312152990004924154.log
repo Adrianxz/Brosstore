@@ -1,0 +1,44 @@
+{
+    "id": "DP-95277",
+    "amount": 10000,
+    "currency": "COP",
+    "payment_method_type": "BANK_TRANSFER",
+    "country": "CO",
+    "created_date": "2025-05-15T04:44:42",
+    "approved_date": "2025-05-15T04:45:59",
+    "status": "PENDING",
+    "order_id": "312152990004924154",
+    "notification_url": "https:\/\/blue-parrot-771704.hostingersite.com\/404\/webhook.php",
+    "redirect_url": "https:\/\/checkout-sbx.dlocalgo.com\/validate\/cDsxDWyzI2QulSznT90QXS0PGXR9kbka",
+    "merchant_checkout_token": "cDsxDWyzI2QulSznT90QXS0PGXR9kbka",
+    "direct": false,
+    "payer": {
+        "first_name": "Madara",
+        "last_name": "Uchiha",
+        "email": "adrian24cg@mail.com",
+        "document_type": "CC",
+        "document": "1077996639"
+    }
+}
+{
+    "id": "DP-95277",
+    "amount": 10000,
+    "currency": "COP",
+    "payment_method_type": "BANK_TRANSFER",
+    "country": "CO",
+    "created_date": "2025-05-15T04:44:42",
+    "approved_date": "2025-05-15T04:45:59",
+    "status": "PAID",
+    "order_id": "312152990004924154",
+    "notification_url": "https:\/\/blue-parrot-771704.hostingersite.com\/404\/webhook.php",
+    "redirect_url": "https:\/\/checkout-sbx.dlocalgo.com\/validate\/cDsxDWyzI2QulSznT90QXS0PGXR9kbka",
+    "merchant_checkout_token": "cDsxDWyzI2QulSznT90QXS0PGXR9kbka",
+    "direct": false,
+    "payer": {
+        "first_name": "Madara",
+        "last_name": "Uchiha",
+        "email": "adrian24cg@mail.com",
+        "document_type": "CC",
+        "document": "1077996639"
+    }
+}
